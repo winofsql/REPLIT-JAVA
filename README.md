@@ -3,6 +3,7 @@
 - ### 📗 Java
   - ### Console
     - ### Basic
+      - [📕 java-array-list](https://replit.com/@sworc/java-array-list)
     - ### Excel
     - ### OpenCSV
     - ### PDF
