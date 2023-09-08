@@ -6,10 +6,9 @@
       - [📕 stdin](https://replit.com/@sworc/java-stdin)
       - [📕 ArrayList](https://replit.com/@sworc/java-array-list)
       - [📕 HashMap iterator](https://replit.com/@sworc/java-hash-map-iterator)
-      - [📕 java-array-list](https://replit.com/@sworc/java-array-list)
-      - [📕 java-array-list](https://replit.com/@sworc/java-array-list)
-      - [📕 java-array-list](https://replit.com/@sworc/java-array-list)
-      - [📕 java-array-list](https://replit.com/@sworc/java-array-list)
+      - [📕 HashMap for loop](https://replit.com/@sworc/java-hash-map-for)
+      - [📕 HashMap forEach method counter](https://replit.com/@sworc/java-map-foreach-method-counter)
+      - [📕 HashMap forEach Lambda)[https://replit.com/@sworc/java-hash-map-foreach-lambda]
     - ### Excel
     - ### OpenCSV
     - ### PDF
