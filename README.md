@@ -6,7 +6,7 @@
       - [📕 stdin](https://replit.com/@sworc/java-stdin)
       - [📕 ArrayList](https://replit.com/@sworc/java-array-list)
         - [ArrayList](https://docs.oracle.com/javase/jp/8/docs/api/index.html?java/util/ArrayList.html)
-        - [List](https://docs.oracle.com/javase/jp/8/docs/api/index.html?java/util/List.html)
+        - [List インタフェース](https://docs.oracle.com/javase/jp/8/docs/api/index.html?java/util/List.html)
       - [📕 HashMap iterator](https://replit.com/@sworc/java-hash-map-iterator)
       - [📕 HashMap for loop](https://replit.com/@sworc/java-hash-map-for)
       - [📕 HashMap forEach method + Counter class](https://replit.com/@sworc/java-map-foreach-method-counter)
