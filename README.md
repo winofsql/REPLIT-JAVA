@@ -4,9 +4,9 @@
   - ### Console
   - ### Swing
       - [📕 java-swing-basic0](https://replit.com/@sworc/java-swing-basic0)
-      - [📕 java-swing-basic1](https://replit.com/@sworc/java-swing-basic0)
-      - [📕 java-swing-basic2](https://replit.com/@sworc/java-swing-basic0)
-      - [📕 java-swing-jtable-csv](https://replit.com/@sworc/)
+      - [📕 java-swing-basic1](https://replit.com/@sworc/java-swing-basic1)
+      - [📕 java-swing-basic2](https://replit.com/@sworc/java-swing-basic2)
+      - [📕 java-swing-jtable-csv](https://replit.com/@sworc/java-swing-jtable-csv)
   - ### Web
       - [📕 java-csv-download](https://replit.com/@sworc/java-csv-download)
       - [📕 java-csv-download-as-bin](https://replit.com/@sworc/java-csv-download-as-bin)
