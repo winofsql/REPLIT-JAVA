@@ -2,6 +2,11 @@
 
 - ### 📗 Java
   - ### Console
+    - ### Basic
+    - ### Excel
+    - ### OpenCSV
+    - ### PDF
+    - ### SQLite3
   - ### Swing
       - [📕 java-swing-basic0](https://replit.com/@sworc/java-swing-basic0)
       - [📕 java-swing-basic1](https://replit.com/@sworc/java-swing-basic1)
