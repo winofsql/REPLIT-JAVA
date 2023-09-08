@@ -12,7 +12,7 @@
       - [📕 HashMap forEach method + Counter class](https://replit.com/@sworc/java-map-foreach-method-counter)
       - [📕 HashMap forEach Lambda + Counter values](https://replit.com/@sworc/java-hash-map-foreach-lambd)
     - ### Excel
-      - [新しい Book のセルにデータをセット](https://replit.com/@sworc/java-excel-newbook-cell)
+      - [📕 新しい Book のセルにデータをセット](https://replit.com/@sworc/java-excel-newbook-cell)
     - ### OpenCSV
     - ### PDF
     - ### SQLite3
