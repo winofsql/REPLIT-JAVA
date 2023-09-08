@@ -7,8 +7,8 @@
       - [📕 ArrayList](https://replit.com/@sworc/java-array-list)
       - [📕 HashMap iterator](https://replit.com/@sworc/java-hash-map-iterator)
       - [📕 HashMap for loop](https://replit.com/@sworc/java-hash-map-for)
-      - [📕 HashMap forEach method counter](https://replit.com/@sworc/java-map-foreach-method-counter)
-      - [📕 HashMap forEach Lambda](https://replit.com/@sworc/java-hash-map-foreach-lambd)
+      - [📕 HashMap forEach method + Counter class](https://replit.com/@sworc/java-map-foreach-method-counter)
+      - [📕 HashMap forEach Lambda + Counter values](https://replit.com/@sworc/java-hash-map-foreach-lambd)
     - ### Excel
     - ### OpenCSV
     - ### PDF
