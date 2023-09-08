@@ -15,6 +15,7 @@
           - [document](https://www.javadoc.io/doc/com.google.code.gson/gson/latest/com.google.gson/com/google/gson/Gson.html)
           - [download](https://search.maven.org/artifact/com.google.code.gson/gson/2.10.1/jar)
 
+  - [とほほ Java](https://www.tohoho-web.com/java/)
     - [📘 GitHub : java-basic](https://github.com/winofsql/subject-1021-java-csharp-basic/blob/main/Program.java)
   - [Java 基礎](https://java-code.jp/)
     - Scanner( 入力と Unix コマンド と bash コマンド )
