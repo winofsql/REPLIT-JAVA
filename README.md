@@ -3,20 +3,26 @@
 - ### 📗 Java
   - ### Console
     - ### Basic
+      - [📕 stdin](https://replit.com/@sworc/java-stdin)
+      - [📕 ArrayList](https://replit.com/@sworc/java-array-list)
+      - [📕 HashMap iterator](https://replit.com/@sworc/java-hash-map-iterator)
+      - [📕 java-array-list](https://replit.com/@sworc/java-array-list)
+      - [📕 java-array-list](https://replit.com/@sworc/java-array-list)
+      - [📕 java-array-list](https://replit.com/@sworc/java-array-list)
       - [📕 java-array-list](https://replit.com/@sworc/java-array-list)
     - ### Excel
     - ### OpenCSV
     - ### PDF
     - ### SQLite3
   - ### Swing
-      - [📕 java-swing-basic0](https://replit.com/@sworc/java-swing-basic0)
-      - [📕 java-swing-basic1](https://replit.com/@sworc/java-swing-basic1)
-      - [📕 java-swing-basic2](https://replit.com/@sworc/java-swing-basic2)
-      - [📕 java-swing-jtable-csv](https://replit.com/@sworc/java-swing-jtable-csv)
+      - [📕 Swing basic0](https://replit.com/@sworc/java-swing-basic0)
+      - [📕 Swing basic1](https://replit.com/@sworc/java-swing-basic1)
+      - [📕 Swing basic2](https://replit.com/@sworc/java-swing-basic2)
+      - [📕 Swing jtable-csv](https://replit.com/@sworc/java-swing-jtable-csv)
   - ### Web
-      - [📕 java-csv-download](https://replit.com/@sworc/java-csv-download)
-      - [📕 java-csv-download-as-bin](https://replit.com/@sworc/java-csv-download-as-bin)
-      - [📕 java-json-to-csv](https://replit.com/@sworc/java-json-to-csv)
+      - [📕 CSV Download](https://replit.com/@sworc/java-csv-download)
+      - [📕 CSV Download as bin](https://replit.com/@sworc/java-csv-download-as-bin)
+      - [📕 JSON to CSV](https://replit.com/@sworc/java-json-to-csv)
         - [gson : GitHub](https://github.com/google/gson)
           - [document](https://www.javadoc.io/doc/com.google.code.gson/gson/latest/com.google.gson/com/google/gson/Gson.html)
           - [download](https://search.maven.org/artifact/com.google.code.gson/gson/2.10.1/jar)
