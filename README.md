@@ -8,7 +8,7 @@
       - [📕 java-swing-basic2](https://replit.com/@sworc/java-swing-basic0)
       - [📕 java-swing-jtable-csv](https://replit.com/@sworc/)
   - ### Web
-      - [📕 java-csv-download](https://replit.com/@sworc/)
+      - [📕 java-csv-download](https://replit.com/@sworc/java-csv-download)
       - [📕 java-csv-download-as-bin](https://replit.com/@sworc/java-csv-download-as-bin)
       - [📕 java-json-to-csv](https://replit.com/@sworc/java-json-to-csv)
         - [gson : GitHub](https://github.com/google/gson)
