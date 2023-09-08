@@ -1,7 +1,7 @@
 # REPLIT-JAVA
 
 - ### 📗 Java
-  - ### Console
+  - ### ✅ Console
     - ### Basic
       - [📕 stdin](https://replit.com/@sworc/java-stdin)
       - [📕 ArrayList](https://replit.com/@sworc/java-array-list)
@@ -25,12 +25,12 @@
           - [Document](https://javadoc.io/doc/net.lingala.zip4j/zip4j/latest/net/lingala/zip4j/ZipFile.html)
       - [📕 内容一覧](https://replit.com/@sworc/java-zip-01)
       - [📕 解凍](https://replit.com/@sworc/java-zip-02)
-  - ### Swing
+  - ### ✅ Swing
       - [📕 Swing basic0](https://replit.com/@sworc/java-swing-basic0)
       - [📕 Swing basic1](https://replit.com/@sworc/java-swing-basic1)
       - [📕 Swing basic2](https://replit.com/@sworc/java-swing-basic2)
       - [📕 Swing jtable-csv](https://replit.com/@sworc/java-swing-jtable-csv)
-  - ### Web
+  - ### ✅ Web
       - [📕 CSV Download](https://replit.com/@sworc/java-csv-download)
       - [📕 CSV Download as bin](https://replit.com/@sworc/java-csv-download-as-bin)
       - [📕 JSON to CSV](https://replit.com/@sworc/java-json-to-csv)
