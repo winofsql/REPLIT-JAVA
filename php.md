@@ -16,8 +16,8 @@
     - [Shell で取得したCSVからデータ作成して処理](https://replit.com/@sworc/php-con-list-sqlite3-by-shell-from-csv)
   - ### ✅ WEB
     - ### 🔶 API
-      - [POST のテスト用ターゲット](https://replit.com/@sworc/php-post-test)
-      - [SQLite3 の内容を JSON で取得](https://replit.com/@sworc/php-json-syain-sqlite3)
+      - [📕 POST のテスト用ターゲット](https://replit.com/@sworc/php-post-test)
+      - [📕 SQLite3 の内容を JSON で取得](https://replit.com/@sworc/php-json-syain-sqlite3)
     - ### 🔶Browser 
       - ### 🔷 PDF( TCPDF )
         - [📕 php-pdf-01](https://replit.com/@sworc/php-pdf-01)
