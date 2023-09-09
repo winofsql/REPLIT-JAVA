@@ -1,0 +1,5 @@
+- ### 📗 Python
+  - ### ✅ Pandas
+  - ### ✅ SQLite3
+  - ### ✅ Tkinter
+  - ### ✅ WEB-app
