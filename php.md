@@ -21,6 +21,7 @@
     - ### 🔶Browser 
       - ### 🔷 PDF
       - ### 🔷 Three.js
+        - [📕 three-flying](https://replit.com/@sworc/three-flying)
       - ### 🔷 Effect
         - [📕 createjs-2-move-image](https://replit.com/@sworc/createjs-2-move-image)
         - [📕 createjs-3-shooting](https://replit.com/@sworc/createjs-3-shooting)
