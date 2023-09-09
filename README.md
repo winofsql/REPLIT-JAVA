@@ -14,7 +14,7 @@
     - ### Excel
       - [📕 新しい Book のセルにデータをセット](https://replit.com/@sworc/java-excel-newbook-cell)
     - ### OpenCSV
-      - [Document](https://javadoc.io/static/com.opencsv/opencsv/5.8/com/opencsv/package-summary.html)
+      - [Document : Package com.opencsv](https://javadoc.io/static/com.opencsv/opencsv/5.8/com/opencsv/package-summary.html)
         - [オリジナル参考資料(英文:From a database table)](https://opencsv.sourceforge.net/#from_a_database_table)
       - [📕 CSV > 表示](https://replit.com/@sworc/java-csv-to-console)
       - [📕 CSV から SQLite3 へ直接登録](https://replit.com/@sworc/java-csv-to-sqlite3)
