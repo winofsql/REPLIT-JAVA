@@ -31,6 +31,8 @@
     - ### SQLite3
       - [📕 準備:既存のテーブルの CREATE文の作成 / Shellと連携](https://replit.com/@sworc/java-sqlite3-check)
       - [Download:jdbc driver](https://github.com/xerial/sqlite-jdbc/releases)
+      - [📕 SELECT 文のループ読み込み](https://replit.com/@sworc/java-sqlite3-select-01)
+      - [📕 INSERT文の実行](https://replit.com/@sworc/java-sqlite3-execute-01)
     - ### ZIP書庫( zip4j )
         - [GitHub](https://github.com/srikanth-lingala/zip4j)
           - [Download](https://mvnrepository.com/artifact/net.lingala.zip4j/zip4j)
