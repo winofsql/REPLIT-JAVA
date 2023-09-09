@@ -3,5 +3,9 @@
     - [📕 explode > 配列 > ループ > implode](https://replit.com/@sworc/php-con-split-loop-3-pattern)
     - [📕 CSVダウンロード > explode](https://replit.com/@sworc/php-con-download-csv-explode-array)
   - ### ✅ JavaScript : 機能
+    - [📕 機械音声スピーチ](https://replit.com/@sworc/js-speech)
+    - [📕 explode > 配列 > ループ > implode](https://replit.com/@sworc/php-con-split-loop-3-pattern)
+    - ### Ajax
+    - ### Local-File
   - ### ✅ SQLite3
   - ### ✅ WEB
