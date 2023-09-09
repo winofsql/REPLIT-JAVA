@@ -13,7 +13,7 @@
       - [📕 テキストエディタ](https://replit.com/@sworc/js-text-editor)
       - [📕 CSV からテーブル](https://replit.com/@sworc/js-csv-table)
   - ### ✅ SQLite3
-    - [Shell で取得したCSVからデータ作成して処理](https://replit.com/@sworc/php-con-list-sqlite3-by-shell-from-csv)
+    - [📕 Shell で取得したCSVからデータ作成して処理](https://replit.com/@sworc/php-con-list-sqlite3-by-shell-from-csv)
   - ### ✅ WEB
     - ### 🔶 API
       - [📕 POST のテスト用ターゲット](https://replit.com/@sworc/php-post-test)
