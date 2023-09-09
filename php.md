@@ -4,17 +4,17 @@
     - [📕 CSVダウンロード > explode](https://replit.com/@sworc/php-con-download-csv-explode-array)
   - ### ✅ JavaScript : 機能
     - [📕 機械音声スピーチ](https://replit.com/@sworc/js-speech)
-    - ### Ajax
+    - ### 🔶 Ajax
       - [📕 GET](https://replit.com/@sworc/js-ajax-get)
       - [📕 POST](https://replit.com/@sworc/js-ajax-post)
       - [📕 アップロード](https://replit.com/@sworc/js-ajax-upload)
       - [📕 外部JSON からテーブル](https://replit.com/@sworc/js-ajax-table)
-    - ### Local-File
+    - ### 🔶 Local-File
       - [📕 テキストエディタ](https://replit.com/@sworc/js-text-editor)
       - [📕 CSV からテーブル](https://replit.com/@sworc/js-csv-table)
   - ### ✅ SQLite3
     - [Shell で取得したCSVからデータ作成して処理](https://replit.com/@sworc/php-con-list-sqlite3-by-shell-from-csv)
   - ### ✅ WEB
-    - ### API
-    - ### Browser 
+    - ### 🔶 API
+    - ### 🔶Browser 
  
