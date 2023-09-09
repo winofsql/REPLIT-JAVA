@@ -2,7 +2,7 @@
 
 - ### 📗 Java ......... [php](https://github.com/winofsql/REPLIT-JAVA/blob/main/php.md) ......... [python](https://github.com/winofsql/REPLIT-JAVA/blob/main/python.md)
   - ### ✅ Console
-    - ### Basic
+    - ### 🔶 Basic
       - [📕 stdin](https://replit.com/@sworc/java-stdin)
       - [📕 ArrayList](https://replit.com/@sworc/java-array-list)
         - [ArrayList](https://docs.oracle.com/javase/jp/8/docs/api/index.html?java/util/ArrayList.html)
@@ -11,7 +11,7 @@
       - [📕 HashMap for loop](https://replit.com/@sworc/java-hash-map-for)
       - [📕 HashMap forEach method + Counter class](https://replit.com/@sworc/java-map-foreach-method-counter)
       - [📕 HashMap forEach Lambda + Counter values](https://replit.com/@sworc/java-hash-map-foreach-lambd)
-    - ### Excel( Apache POI )
+    - ### 🔶 Excel( Apache POI )
       - [Download](https://archive.apache.org/dist/poi/release/bin/)
       - [Document](https://poi.apache.org/apidocs/index.html)
       - [📕 新しい Book のセルにデータをセット](https://replit.com/@sworc/java-excel-newbook-cell)
@@ -34,7 +34,7 @@
       - [📕 SELECT 文のループ読み込み](https://replit.com/@sworc/java-sqlite3-select-01)
       - [📕 INSERT文の実行](https://replit.com/@sworc/java-sqlite3-execute-01)
         - 条件付き CREATE > DELETE(TRUNCATEの代替) > SELECT で空の確認 > INSERT １件
-    - ### ZIP書庫( zip4j )
+    - ### 🔶 ZIP書庫( zip4j )
         - [GitHub](https://github.com/srikanth-lingala/zip4j)
           - [Download](https://mvnrepository.com/artifact/net.lingala.zip4j/zip4j)
           - [Document](https://javadoc.io/doc/net.lingala.zip4j/zip4j/latest/net/lingala/zip4j/ZipFile.html)
