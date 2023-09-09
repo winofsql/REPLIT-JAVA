@@ -4,8 +4,11 @@
     - [📕 CSVダウンロード > explode](https://replit.com/@sworc/php-con-download-csv-explode-array)
   - ### ✅ JavaScript : 機能
     - [📕 機械音声スピーチ](https://replit.com/@sworc/js-speech)
-    - [📕 explode > 配列 > ループ > implode](https://replit.com/@sworc/php-con-split-loop-3-pattern)
     - ### Ajax
+      - [📕 GET](https://replit.com/@sworc/js-ajax-get)
+      - [📕 POST](https://replit.com/@sworc/js-ajax-post)
+      - [📕 アップロード](https://replit.com/@sworc/js-ajax-upload)
+      - [📕 外部JSON からテーブル](https://replit.com/@sworc/js-ajax-table)
     - ### Local-File
   - ### ✅ SQLite3
   - ### ✅ WEB
