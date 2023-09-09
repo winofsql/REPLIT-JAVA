@@ -1,7 +1,7 @@
 - ### 📗 PHP
   - ### ✅ Console
-    - [explode > 配列 > ループ > implode](https://replit.com/@sworc/php-con-split-loop-3-pattern)
-    - [csvダウンロード > explode](https://replit.com/@sworc/php-con-download-csv-explode-array)
+    - [📕 explode > 配列 > ループ > implode](https://replit.com/@sworc/php-con-split-loop-3-pattern)
+    - [📕 CSVダウンロード > explode](https://replit.com/@sworc/php-con-download-csv-explode-array)
   - ### ✅ JavaScript : 機能
   - ### ✅ SQLite3
   - ### ✅ WEB
