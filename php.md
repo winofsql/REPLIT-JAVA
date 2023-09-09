@@ -10,5 +10,7 @@
       - [📕 アップロード](https://replit.com/@sworc/js-ajax-upload)
       - [📕 外部JSON からテーブル](https://replit.com/@sworc/js-ajax-table)
     - ### Local-File
+      - [📕 テキストエディタ](https://replit.com/@sworc/js-text-editor)
+      - [📕 CSV からテーブル](https://replit.com/@sworc/js-csv-table)
   - ### ✅ SQLite3
   - ### ✅ WEB
