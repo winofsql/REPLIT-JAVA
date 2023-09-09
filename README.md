@@ -29,6 +29,7 @@
       - [Document](https://javadoc.io/doc/org.apache.pdfbox/pdfbox/latest/index.html)
       - [📕 文字列と罫線](https://replit.com/@sworc/java-pdf-basic)
     - ### SQLite3
+      - [📕 準備:既存のテーブルの CREATE文の作成 / Shellと連携](https://replit.com/@sworc/java-sqlite3-check)
     - ### ZIP書庫( zip4j )
         - [GitHub](https://github.com/srikanth-lingala/zip4j)
           - [Download](https://mvnrepository.com/artifact/net.lingala.zip4j/zip4j)
