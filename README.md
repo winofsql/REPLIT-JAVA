@@ -33,6 +33,7 @@
       - [Download:jdbc driver](https://github.com/xerial/sqlite-jdbc/releases)
       - [📕 SELECT 文のループ読み込み](https://replit.com/@sworc/java-sqlite3-select-01)
       - [📕 INSERT文の実行](https://replit.com/@sworc/java-sqlite3-execute-01)
+        - 条件付き CREATE > DELETE(TRUNCATEの代替) > SELECT で空の確認 > INSERT １件
     - ### ZIP書庫( zip4j )
         - [GitHub](https://github.com/srikanth-lingala/zip4j)
           - [Download](https://mvnrepository.com/artifact/net.lingala.zip4j/zip4j)
