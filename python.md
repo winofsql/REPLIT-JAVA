@@ -28,3 +28,5 @@
         ```
         - [参考資料 : フォントの追加( Liunx )](https://turtlechan.hatenablog.com/entry/2019/06/11/211543)
   - ### ✅ WEB-app
+    - ### 🔶 Replit
+      - [📕 flask : WEBアプリ基本](https://replit.com/@sworc/py-web-flask-01)
