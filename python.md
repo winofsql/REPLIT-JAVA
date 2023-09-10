@@ -13,6 +13,6 @@
       - [📰 Pythonからデータベース「SQLite3」を操作](https://proengineer.internous.co.jp/content/columnfeature/20735)
     - [📕 DB作成 or 接続](https://replit.com/@sworc/py-sqlite3-create)
     - [📕 SELECT > ループ](https://replit.com/@sworc/py-sqlite3-01)
-    - [📕 CREATE文取得 > 別のDB( CSV > SQLite3 )(https://replit.com/@sworc/py-sqlite3-02)
+    - [📕 CREATE文取得 > 別のDB( CSV > SQLite3 ](https://replit.com/@sworc/py-sqlite3-02)
   - ### ✅ Tkinter
   - ### ✅ WEB-app
