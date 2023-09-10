@@ -4,5 +4,6 @@
     - [📰 データ分析で必須のPandasを入門](https://aiacademy.jp/media/?p=152)
     - [📰 pandas関連記事](https://note.nkmk.me/python-pandas-post-summary/)
     - [📕 WEBからCSV > SQLite3(to_sql)](https://replit.com/@sworc/py-pandas-csv-sqlite3)
+    - [📕 Excel > CSV](https://replit.com/@sworc/py-pandas-excel-csv)
   - ### ✅ Tkinter
   - ### ✅ WEB-app
