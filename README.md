@@ -1,4 +1,4 @@
-# REPLIT-JAVA
+# REPLIT-JAVA-PHP(JS)-PYTHON
 
 - ### 📗 Java ......... [php](https://github.com/winofsql/REPLIT-JAVA/blob/main/php.md) ......... [python](https://github.com/winofsql/REPLIT-JAVA/blob/main/python.md)
   - ### ✅ Console
