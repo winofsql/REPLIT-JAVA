@@ -14,28 +14,28 @@
       - [📰 Document](https://poi.apache.org/apidocs/index.html)
       - [📕 新しい Book のセルにデータをセット](https://replit.com/@sworc/java-excel-newbook-cell)
     - ### 🔶 OpenCSV
-      - [Download](https://sourceforge.net/projects/opencsv/)
-      - [Document : Package com.opencsv](https://javadoc.io/static/com.opencsv/opencsv/5.8/com/opencsv/package-summary.html)
+      - [🢃 Download](https://sourceforge.net/projects/opencsv/)
+      - [📰 Document : Package com.opencsv](https://javadoc.io/static/com.opencsv/opencsv/5.8/com/opencsv/package-summary.html)
         - [オリジナル参考資料(英文:From a database table)](https://opencsv.sourceforge.net/#from_a_database_table)
       - [📕 CSV > 表示](https://replit.com/@sworc/java-csv-to-console)
-        - [CSVReaderHeaderAware](https://javadoc.io/static/com.opencsv/opencsv/5.8/com/opencsv/CSVReaderHeaderAware.html)
-          - [MAP による取得( Quick start )](https://opencsv.sourceforge.net/#quick_start)
+        - [📰 CSVReaderHeaderAware](https://javadoc.io/static/com.opencsv/opencsv/5.8/com/opencsv/CSVReaderHeaderAware.html)
+          - [📰 MAP による取得( Quick start )](https://opencsv.sourceforge.net/#quick_start)
       - [📕 CSV から SQLite3 へ直接登録](https://replit.com/@sworc/java-csv-to-sqlite3)
       - [📕 SQLite3 > CSV](https://replit.com/@sworc/java-sqlite3-to-csv)
     - ### 🔶 PDF( pdfbox )
-      - [Download](https://pdfbox.apache.org/download.html)
-      - [Document](https://javadoc.io/doc/org.apache.pdfbox/pdfbox/latest/index.html)
+      - [🢃 Download](https://pdfbox.apache.org/download.html)
+      - [📰 Document](https://javadoc.io/doc/org.apache.pdfbox/pdfbox/latest/index.html)
       - [📕 文字列と罫線](https://replit.com/@sworc/java-pdf-basic)
     - ### 🔶 SQLite3
+      - [🢃 Download:jdbc driver](https://github.com/xerial/sqlite-jdbc/releases)
       - [📕 準備:既存のテーブルの CREATE文の作成 / Shellと連携](https://replit.com/@sworc/java-sqlite3-check)
-      - [Download:jdbc driver](https://github.com/xerial/sqlite-jdbc/releases)
       - [📕 SELECT 文のループ読み込み](https://replit.com/@sworc/java-sqlite3-select-01)
       - [📕 INSERT文の実行](https://replit.com/@sworc/java-sqlite3-execute-01)
         - 条件付き CREATE > DELETE(TRUNCATEの代替) > SELECT で空の確認 > INSERT １件
     - ### 🔶 ZIP書庫( zip4j )
         - [GitHub](https://github.com/srikanth-lingala/zip4j)
-          - [Download](https://mvnrepository.com/artifact/net.lingala.zip4j/zip4j)
-          - [Document](https://javadoc.io/doc/net.lingala.zip4j/zip4j/latest/net/lingala/zip4j/ZipFile.html)
+          - [🢃 Download](https://mvnrepository.com/artifact/net.lingala.zip4j/zip4j)
+          - [📰 Document](https://javadoc.io/doc/net.lingala.zip4j/zip4j/latest/net/lingala/zip4j/ZipFile.html)
       - [📕 内容一覧](https://replit.com/@sworc/java-zip-01)
       - [📕 解凍](https://replit.com/@sworc/java-zip-02)
   - ### ✅ Swing
@@ -48,8 +48,8 @@
       - [📕 CSV Download as bin](https://replit.com/@sworc/java-csv-download-as-bin)
       - [📕 JSON to CSV](https://replit.com/@sworc/java-json-to-csv)
         - [gson : GitHub](https://github.com/google/gson)
-          - [document](https://www.javadoc.io/doc/com.google.code.gson/gson/latest/com.google.gson/com/google/gson/Gson.html)
-          - [download](https://search.maven.org/artifact/com.google.code.gson/gson/2.10.1/jar)
+          - [🢃 download](https://search.maven.org/artifact/com.google.code.gson/gson/2.10.1/jar)
+          - [📰 document](https://www.javadoc.io/doc/com.google.code.gson/gson/latest/com.google.gson/com/google/gson/Gson.html)
 
 <br><hr><br>
 
