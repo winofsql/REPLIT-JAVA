@@ -19,8 +19,8 @@
   - ### ✅ Tkinter
     - ### 🔶 Replit
       - [📕 簡単な画面とボタンからSQLite3アクセス](https://replit.com/@sworc/py-click-button-01)
-        - #### 一時的梅フォントの導入( [ume-tgo4.ttf](https://cute-freefont.flop.jp/ume_gothic.html) )
-        - #### Shell ( 一時的 : 少し経つと削除される )
+        - 一時的梅フォントの導入( [ume-tgo4.ttf](https://cute-freefont.flop.jp/ume_gothic.html) )
+        - Shell ( 一時的 : 少し経つと削除される )
         ```
         mkdir ../.fonts
         cp ume-tgo4.ttf ../.fonts
