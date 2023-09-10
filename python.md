@@ -4,15 +4,17 @@
       - [📰 Input/output](https://pandas.pydata.org/docs/reference/io.html)
       - [📰 データ分析で必須のPandasを入門](https://aiacademy.jp/media/?p=152)
       - [📰 pandas関連記事](https://note.nkmk.me/python-pandas-post-summary/)
-    - [📕 WEBからCSV > SQLite3(to_sql)](https://replit.com/@sworc/py-pandas-csv-sqlite3)
-    - [📕 Excel > CSV](https://replit.com/@sworc/py-pandas-excel-csv)
+    - ### 🔶 Replit
+      - [📕 WEBからCSV > SQLite3(to_sql)](https://replit.com/@sworc/py-pandas-csv-sqlite3)
+      - [📕 Excel > CSV](https://replit.com/@sworc/py-pandas-excel-csv)
   - ### ✅ SQLite3
     - ### 🔶 Document
       - [📰 3.11 : SQLite データベースに対する DB-API 2.0 インターフェース](https://docs.python.org/ja/3.11/library/sqlite3.html)
       - [📰 作成や読み出しなどの基礎](https://qiita.com/saira/items/e08c8849cea6c3b5eb0c)
       - [📰 Pythonからデータベース「SQLite3」を操作](https://proengineer.internous.co.jp/content/columnfeature/20735)
-    - [📕 DB作成 or 接続](https://replit.com/@sworc/py-sqlite3-create)
-    - [📕 SELECT > ループ](https://replit.com/@sworc/py-sqlite3-01)
-    - [📕 CREATE文取得 > 別のDB( CSV > SQLite3 ](https://replit.com/@sworc/py-sqlite3-02)
+    - ### 🔶 Replit
+      - [📕 DB作成 or 接続](https://replit.com/@sworc/py-sqlite3-create)
+      - [📕 SELECT > ループ](https://replit.com/@sworc/py-sqlite3-01)
+      - [📕 CREATE文取得 > 別のDB( CSV > SQLite3 ](https://replit.com/@sworc/py-sqlite3-02)
   - ### ✅ Tkinter
   - ### ✅ WEB-app
