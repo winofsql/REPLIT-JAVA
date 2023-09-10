@@ -17,4 +17,12 @@
       - [📕 SELECT > ループ](https://replit.com/@sworc/py-sqlite3-01)
       - [📕 CREATE文取得 > 別のDB( CSV > SQLite3 ](https://replit.com/@sworc/py-sqlite3-02)
   - ### ✅ Tkinter
+    - ### 🔶 Replit
+      - [📕 簡単な画面とボタンからSQLite3アクセス](https://replit.com/@sworc/py-click-button-01)
+      ```
+      mkdir ../.fonts
+      cp ume-tgo4.ttf ../.fonts
+      ``` 
+      - [📕 SELECT > ループ](https://replit.com/@sworc/py-sqlite3-01)
+      - [📕 CREATE文取得 > 別のDB( CSV > SQLite3 ](https://replit.com/@sworc/py-sqlite3-02)
   - ### ✅ WEB-app
