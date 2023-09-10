@@ -1,6 +1,6 @@
 # REPLIT-Java-PHP-js-Python
 
-- ### 📗 Java ......... [php](https://github.com/winofsql/REPLIT-JAVA/blob/main/php.md) ......... [python](https://github.com/winofsql/REPLIT-JAVA/blob/main/python.md)
+- ### 📗 Java ......... [php](https://github.com/winofsql/REPLIT-JAVA/blob/main/PHP.md) ......... [python](https://github.com/winofsql/REPLIT-JAVA/blob/main/python.md)
   - ### ✅ Console
     - ### 🔶 Basic
       - [📕 stdin](https://replit.com/@sworc/java-stdin)
