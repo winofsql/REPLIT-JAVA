@@ -24,7 +24,8 @@
         ```
         mkdir ../.fonts
         cp ume-tgo4.ttf ../.fonts
-        ``` 
+        ```
+        - [参考資料 : フォントの追加( Liunx )](https://turtlechan.hatenablog.com/entry/2019/06/11/211543)
       - [📕 SELECT > ループ](https://replit.com/@sworc/py-sqlite3-01)
       - [📕 CREATE文取得 > 別のDB( CSV > SQLite3 ](https://replit.com/@sworc/py-sqlite3-02)
   - ### ✅ WEB-app
