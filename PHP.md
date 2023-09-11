@@ -20,7 +20,7 @@
       - [📕 SQLite3 の内容を JSON で取得](https://replit.com/@sworc/php-json-syain-sqlite3)
     - ### 🔶Browser
       - ### 🔷 SQLite3
-        - [📕 sqlite3](https://replit.com/@sworc/php-sqlite3-easy+access)
+        - [📕 簡単なデータアクセス](https://replit.com/@sworc/php-sqlite3-easy-access)
       - ### 🔷 PDF( TCPDF )
         - [📕 php-pdf-01](https://replit.com/@sworc/php-pdf-01)
         - [📕 php-pdf-02](https://replit.com/@sworc/php-pdf-02)
