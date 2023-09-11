@@ -21,6 +21,7 @@
     - ### 🔶Browser
       - ### 🔷 SQLite3
         - [📕 簡単なデータアクセス](https://replit.com/@sworc/php-sqlite3-easy-access)
+        - [📕 値のバインド / print_r](https://replit.com/@sworc/php-sqlite3-app1)
       - ### 🔷 PDF( TCPDF )
         - [📕 php-pdf-01](https://replit.com/@sworc/php-pdf-01)
         - [📕 php-pdf-02](https://replit.com/@sworc/php-pdf-02)
