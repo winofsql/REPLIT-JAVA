@@ -34,3 +34,7 @@
   - ### 画面のクリアは .shell clear
     - #### .shell は、shell のコマンドの実行
     - #### 🔴 Shell プロンプトでは CTRL + L でクリア
+   
+  - ### テーブル一覧は .tables
+  - ### CREATE 文表示は .sch( .schema ) : 他と重ならない場合コマンド文字列の省略可
+
