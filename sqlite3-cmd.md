@@ -16,3 +16,6 @@
     sqlite> .help restore
     .restore ?DB? FILE       Restore content of DB (default "main") from FILE
     ``` 
+  - ### 画面のクリアは .shell clear
+    - #### .shell は、shell のコマンドの実行
+    - #### 🔴 Shell プロンプトでは CTRL + L でクリア
