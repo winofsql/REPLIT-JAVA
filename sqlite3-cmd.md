@@ -2,6 +2,9 @@
 
   - ### データベースファイル名 を lightbox.sqlite3 とすると、
     - #### 実行後、lightbox.sqlite3 を読み込む
+      ```
+      sqlite3 lightbox.sqlite3
+      ```
 
   - ### sqlite3 で実行した場合は、データベースは読み込まれて無い
     -#### 🔴 .restore lightbox.sqlite3 で読み込む事ができます。
