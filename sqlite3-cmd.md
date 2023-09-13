@@ -9,6 +9,8 @@
       ![image](https://github.com/winofsql/REPLIT-Java-PHP-js-Python/assets/1501327/f4dbd672-09fe-496f-9490-3f71b6f0a283)
 
     - #### 🔴 sqlite3 の終了は .q
+   
+    <br><br>
 
   - ### sqlite3 で実行した場合は、データベースは読み込まれて無い
     - #### 🔴 .restore lightbox.sqlite3 で読み込む事ができます。
