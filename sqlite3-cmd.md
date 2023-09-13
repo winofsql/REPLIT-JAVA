@@ -12,6 +12,9 @@
 
     - #### wget のインストール
       ![image](https://github.com/winofsql/REPLIT-Java-PHP-js-Python/assets/1501327/3ef0fc59-5841-4fed-8aa3-03e2b33f6e92)
+    - #### 必要ファイルを WEB から取得
+      ![image](https://github.com/winofsql/REPLIT-Java-PHP-js-Python/assets/1501327/bb96f14a-1b05-49d1-a878-8db22865bbc5)
+
  
     <br><br>
 
