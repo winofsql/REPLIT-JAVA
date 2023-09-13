@@ -5,6 +5,7 @@
       ```
       sqlite3 lightbox.sqlite3
       ```
+      - #### sqlite3 のインストール 
       ![image](https://github.com/winofsql/REPLIT-Java-PHP-js-Python/assets/1501327/f4dbd672-09fe-496f-9490-3f71b6f0a283)
 
 
