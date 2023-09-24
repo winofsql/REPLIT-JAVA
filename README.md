@@ -59,8 +59,8 @@
       - Shellを使う
     - [📕 ループ処理で自前のプロンプトを作る](https://replit.com/@sworc/java-0914-1#Main.java)
       - scanner を使用して入力処理を実装する
-      - とりあえず 永久ループ
-      - CTRL + C で強制終了
+      - とりあえず while ループ
+      - q 入力で終了
     - [📕 swing-0914-コントロールは絶対位置指定で入力値をコンソールに出力する](https://replit.com/@sworc/swing-0914-kontororuhaJue-Dui-Wei-Zhi-Zhi-Ding-deRu-Li-Zhi-wokonsoruniChu-Li-suru)
 
 <br><hr><br>
