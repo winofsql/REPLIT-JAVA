@@ -54,6 +54,10 @@
           - [🢃 download](https://search.maven.org/artifact/com.google.code.gson/gson/2.10.1/jar)
           - [📰 document](https://www.javadoc.io/doc/com.google.code.gson/gson/latest/com.google.gson/com/google/gson/Gson.html)
 
+  - ### 230914-🟧木曜
+    - ### [sqlite3/wget をインストール](https://replit.com/@sworc/php-0914-1#README.md)
+      - ### Shellを使う
+
 <br><hr><br>
 
   - [とほほ Java](https://www.tohoho-web.com/java/)
