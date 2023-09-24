@@ -44,6 +44,7 @@
       - [📕 Swing basic0](https://replit.com/@sworc/java-swing-basic0)
       - [📕 Swing basic1](https://replit.com/@sworc/java-swing-basic1)
       - [📕 Swing basic2](https://replit.com/@sworc/java-swing-basic2)
+        - [📕 swing-0914-コントロールは絶対位置指定で入力値をコンソールに出力する](https://replit.com/@sworc/swing-0914-kontororuhaJue-Dui-Wei-Zhi-Zhi-Ding-deRu-Li-Zhi-wokonsoruniChu-Li-suru)
       - [📕 Swing jtable-csv](https://replit.com/@sworc/java-swing-jtable-csv)
   - ### ✅ Web
       - [📕 CSV Download](https://replit.com/@sworc/java-csv-download)
