@@ -56,7 +56,7 @@
 
   - ### 230914-🟧木曜
     - [sqlite3/wget をインストール](https://replit.com/@sworc/php-0914-1#README.md)
-      - ### Shellを使う
+      - Shellを使う
 
 <br><hr><br>
 
