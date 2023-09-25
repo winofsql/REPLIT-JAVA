@@ -70,7 +70,7 @@
        - [📕 PHP : FetchAll => JSON](https://replit.com/@sworc/php-json-syain-sqlite3)
 
    - ### 230914-🟧木曜
-    -  [📕 java-0921-SQLiteを読み込んでCSVを作成するいくつかの方法]]()
+    -  [📕 java-0921-SQLiteを読み込んでCSVを作成するいくつかの方法](https://replit.com/@sworc/java-0921-SQLitewoDu-miIp-ndeCSVwoZuo-Cheng-suruikutukanoFang-Fa)
 
 <br><hr><br>
 
