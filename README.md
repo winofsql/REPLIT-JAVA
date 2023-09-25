@@ -64,13 +64,13 @@
     - [📕 swing-0914-コントロールは絶対位置指定で入力値をコンソールに出力する](https://replit.com/@sworc/swing-0914-kontororuhaJue-Dui-Wei-Zhi-Zhi-Ding-deRu-Li-Zhi-wokonsoruniChu-Li-suru)
 
 
-   - ### 230920-🟦水曜
-     - [📕 PHP : SQLite3 : Exceute, Prepare & Execute](https://replit.com/@sworc/php-pdo-sqlite-1#index.php)
-     - [📕 PHP : Select 一覧表示](https://replit.com/@sworc/php-0920-1#index.php)
-       - [📕 PHP : FetchAll => JSON](https://replit.com/@sworc/php-json-syain-sqlite3)
+  - ### 230920-🟦水曜
+    - [📕 PHP : SQLite3 : Exceute, Prepare & Execute](https://replit.com/@sworc/php-pdo-sqlite-1#index.php)
+    - [📕 PHP : Select 一覧表示](https://replit.com/@sworc/php-0920-1#index.php)
+      - [📕 PHP : FetchAll => JSON](https://replit.com/@sworc/php-json-syain-sqlite3)
 
-   - ### 230914-🟧木曜
-    -  [📕 java-0921-SQLiteを読み込んでCSVを作成するいくつかの方法](https://replit.com/@sworc/java-0921-SQLitewoDu-miIp-ndeCSVwoZuo-Cheng-suruikutukanoFang-Fa)
+  - ### 230914-🟧木曜
+    - [📕 java-0921-SQLiteを読み込んでCSVを作成するいくつかの方法](https://replit.com/@sworc/java-0921-SQLitewoDu-miIp-ndeCSVwoZuo-Cheng-suruikutukanoFang-Fa)
       - + 演算子で、文字列を連結する
       - String.format を使用する
       - テキストブロック + replace
