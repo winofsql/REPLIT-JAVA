@@ -65,7 +65,7 @@
 
 
    - ### 230920-🟦水曜
-     - [📕 PHP : SQLite3 : Exceute, Prepare & Ececute](https://replit.com/@sworc/php-pdo-sqlite-1#index.php)
+     - [📕 PHP : SQLite3 : Exceute, Prepare & Execute](https://replit.com/@sworc/php-pdo-sqlite-1#index.php)
 
 
 <br><hr><br>
