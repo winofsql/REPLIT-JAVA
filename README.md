@@ -56,7 +56,8 @@
 
   - ### 230914-🟧木曜
     - [sqlite3/wget をインストール](https://replit.com/@sworc/php-0914-1#README.md)
-      - Shellを使う
+      ![image](https://github.com/winofsql/REPLIT-Java-PHP-js-Python/assets/1501327/3e104c23-4867-4529-9e94-f27ef1f0a8f1)
+       - Shellを使う
     - [📕 ループ処理で自前のプロンプトを作る](https://replit.com/@sworc/java-0914-1#Main.java)
       - scanner を使用して入力処理を実装する
       - とりあえず while ループ
