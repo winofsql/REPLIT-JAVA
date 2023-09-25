@@ -63,6 +63,11 @@
       - q 入力で終了
     - [📕 swing-0914-コントロールは絶対位置指定で入力値をコンソールに出力する](https://replit.com/@sworc/swing-0914-kontororuhaJue-Dui-Wei-Zhi-Zhi-Ding-deRu-Li-Zhi-wokonsoruniChu-Li-suru)
 
+
+   - ### 230920-🟦水曜
+     - [📕 PHP : SQLite3 : Exceute, Prepare & Ececute](https://replit.com/@sworc/php-pdo-sqlite-1#index.php)
+
+
 <br><hr><br>
 
   - [とほほ Java](https://www.tohoho-web.com/java/)
