@@ -71,7 +71,7 @@
 
   - ### 230914-🟧木曜
     - [📕 java-0921-SQLiteを読み込んでCSVを作成するいくつかの方法](https://replit.com/@sworc/java-0921-SQLitewoDu-miIp-ndeCSVwoZuo-Cheng-suruikutukanoFang-Fa)
-      - + 演算子で、文字列を連結する
+      - ＋演算子で、文字列を連結する
       - String.format を使用する
       - テキストブロック + replace
       - 列のループ処理で、+ 演算子の連結
