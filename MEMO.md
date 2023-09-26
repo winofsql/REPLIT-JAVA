@@ -41,7 +41,8 @@
 - ### DesktoOK の利用
   ![Untitled](https://github.com/winofsql/REPLIT-Java-PHP-js-Python/assets/1501327/d6cf6646-caa4-4b86-a474-5438981f7b02)
  
-![image](image.png)
+  ![Untitled](https://github.com/winofsql/REPLIT-Java-PHP-js-Python/assets/1501327/11f77708-7847-4b49-a627-ba242c964f28)
+
 
 ![image](image_2.png)
 
