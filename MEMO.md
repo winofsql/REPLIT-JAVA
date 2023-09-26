@@ -119,3 +119,8 @@
       }
     }
     ```
+  
+- ### Windows 上で SQLite3 コマンドの実行
+  - ### [sqlite3 for windows (command-line tools)](https://www.sqlite.org/download.html)
+
+    ![Untitled](https://github.com/winofsql/REPLIT-Java-PHP-js-Python/assets/1501327/905b3545-7301-4f82-a62e-fc875ee416ff)
