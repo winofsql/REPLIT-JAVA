@@ -1,4 +1,4 @@
-- ### 📗 Java ......... [PHP](https://github.com/winofsql/REPLIT-JAVA/blob/main/PHP.md) ......... [Python](https://github.com/winofsql/REPLIT-JAVA/blob/main/python.md) ......... [MEMO](MEMO.md)
+- ### 📗 Java ......... [PHP](PHP.md) ......... [Python](python.md) ......... [MEMO](MEMO.md)
   - ### ✅ Console
     - ### 🔶 Basic
       - [📕 stdin](https://replit.com/@sworc/java-stdin)
