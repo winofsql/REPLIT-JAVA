@@ -132,3 +132,18 @@
 ## ✅ 9月22日
 
 - ### ZOOM のメモの共有機能のテスト
+- ### Eclipse でバッチ Java のプロジェクト
+  - #### JDBC ドライバを登録して MySQL と SQLite3 でテスト
+
+- ### VScode + XAMPP で Tomcat サンプル実行
+
+- ### lightbox テスクトップアイコンの簡単な説明
+  ![Untitled](https://github.com/winofsql/REPLIT-Java-PHP-js-Python/assets/1501327/36e25469-549e-48a4-9775-100ac5de6897)
+
+- ### Advanced IP Scanner
+  ![Untitled](https://github.com/winofsql/REPLIT-Java-PHP-js-Python/assets/1501327/0b88159e-1061-4d77-a5fb-162ced3f517b)
+
+  - #### Windows のファイル共有
+    ![Untitled](https://github.com/winofsql/REPLIT-Java-PHP-js-Python/assets/1501327/d89117ed-2258-44b3-8ef5-b9a597f3bdb0)
+
+ 
