@@ -58,62 +58,64 @@
 
   ![Untitled](https://github.com/winofsql/REPLIT-Java-PHP-js-Python/assets/1501327/85f54103-bc50-44cd-af11-c9d181a8ffbe)
 
-  ```java
-  import java.awt.EventQueue;
-  import java.awt.event.ActionEvent;
-  import java.awt.event.ActionListener;
-  
-  import javax.swing.JButton;
-  import javax.swing.JFrame;
-  import javax.swing.JLabel;
-  import javax.swing.JPanel;
-  import javax.swing.JTextField;
-  import javax.swing.border.EmptyBorder;
-  
-  public class Main {
-  
-      private static void createAndShowGUI() {
-  
-          // ウインドウ
-          JFrame jFrame = new JFrame("Hello World Swing Example");
-          jFrame.setLayout(null);
-          jFrame.setSize(500, 360);
-          jFrame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-  
-          // ラベル( 表示のみのテキスト)
-          JLabel label = new JLabel("New label");
-          label.setBounds(50, 52, 143, 13);
-          // ラベルを追加
-          jFrame.add(label);
-  
-    		  JTextField textField = new JTextField();
-      		textField.setBounds(217, 49, 96, 19);
-      		textField.setColumns(10);
-      		jFrame.add(textField);
+  - ### static 内での実行
+
+    ```java
+    import java.awt.EventQueue;
+    import java.awt.event.ActionEvent;
+    import java.awt.event.ActionListener;
+    
+    import javax.swing.JButton;
+    import javax.swing.JFrame;
+    import javax.swing.JLabel;
+    import javax.swing.JPanel;
+    import javax.swing.JTextField;
+    import javax.swing.border.EmptyBorder;
+    
+    public class Main {
+    
+        private static void createAndShowGUI() {
+    
+            // ウインドウ
+            JFrame jFrame = new JFrame("Hello World Swing Example");
+            jFrame.setLayout(null);
+            jFrame.setSize(500, 360);
+            jFrame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+    
+            // ラベル( 表示のみのテキスト)
+            JLabel label = new JLabel("New label");
+            label.setBounds(50, 52, 143, 13);
+            // ラベルを追加
+            jFrame.add(label);
+    
+      		  JTextField textField = new JTextField();
+        		textField.setBounds(217, 49, 96, 19);
+        		textField.setColumns(10);
+        		jFrame.add(textField);
+          
+            // ボタン
+            JButton jButton = new JButton("TEST");
+            jButton.setBorderPainted(false);
+        		jButton.setBounds(48, 85, 91, 21);
+            // クリックイベント
+            jButton.addActionListener(new ActionListener() {
+              public void actionPerformed(ActionEvent e) {
         
-          // ボタン
-          JButton jButton = new JButton("TEST");
-          jButton.setBorderPainted(false);
-      		jButton.setBounds(48, 85, 91, 21);
-          // クリックイベント
-          jButton.addActionListener(new ActionListener() {
-            public void actionPerformed(ActionEvent e) {
-      
-              System.out.println(textField.getText());
-      
-            }
-          });
-  
-          // ボタンを追加
-          jFrame.add(jButton);
-  
-  
-          // ウインドウを表示
-          jFrame.setVisible(true);
+                System.out.println(textField.getText());
+        
+              }
+            });
+    
+            // ボタンを追加
+            jFrame.add(jButton);
+    
+    
+            // ウインドウを表示
+            jFrame.setVisible(true);
+        }
+        
+      public static void main(String[] args) {
+        createAndShowGUI();
       }
-      
-    public static void main(String[] args) {
-      createAndShowGUI();
     }
-  }
-  ```
+    ```
