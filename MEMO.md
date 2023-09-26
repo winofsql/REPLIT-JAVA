@@ -43,23 +43,19 @@
  
   ![Untitled](https://github.com/winofsql/REPLIT-Java-PHP-js-Python/assets/1501327/11f77708-7847-4b49-a627-ba242c964f28)
 
+- ### Eclipse で Swing
+  ![Untitled](https://github.com/winofsql/REPLIT-Java-PHP-js-Python/assets/1501327/c1041e02-5bd6-4615-91d3-f6b128db4c03)
 
-![image](image_2.png)
+  ![Untitled](https://github.com/winofsql/REPLIT-Java-PHP-js-Python/assets/1501327/f0bf129d-0305-46c3-bdcc-4948df3ab282)
 
-![image](image_3.png)
+  ![Untitled](https://github.com/winofsql/REPLIT-Java-PHP-js-Python/assets/1501327/6c4e8aeb-130d-4d15-8297-6231adf32118)
 
-### パースペクティブの選択
+  ![Untitled](https://github.com/winofsql/REPLIT-Java-PHP-js-Python/assets/1501327/a15ac74f-262d-4d1e-8121-7e0cfbad15d9)
 
-![image](image_4.png)
+  ![Untitled](https://github.com/winofsql/REPLIT-Java-PHP-js-Python/assets/1501327/c2e9d9c5-0d99-467d-b4f2-6f432cc57704)
 
-![image](image_5.png)
+  ![Untitled](https://github.com/winofsql/REPLIT-Java-PHP-js-Python/assets/1501327/6df2276a-05b1-4f99-a6de-194855ed1811)
 
-![image](image_6.png)
+  ![Untitled](https://github.com/winofsql/REPLIT-Java-PHP-js-Python/assets/1501327/85f54103-bc50-44cd-af11-c9d181a8ffbe)
 
-![image](image_7.png)
 
-![image](image_8.png)
-
-![image](image_9.png)
-
-### [サンプルコード(WindowBuilder/Eclipse)](https://replit.com/@sworc/swing-0914-1#WindowBuilder.md)
