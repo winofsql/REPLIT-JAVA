@@ -137,7 +137,7 @@
 
 - ### VScode + XAMPP で Tomcat サンプル実行
 
-- ### lightbox テスクトップアイコンの簡単な説明
+- ### lightbox デスクトップアイコンの簡単な説明
   ![Untitled](https://github.com/winofsql/REPLIT-Java-PHP-js-Python/assets/1501327/36e25469-549e-48a4-9775-100ac5de6897)
 
 - ### Advanced IP Scanner
