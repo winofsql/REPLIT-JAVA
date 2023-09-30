@@ -4,6 +4,10 @@
   
   ![image](CTRL+ALT+DEL.png)
 
+  ![image](CTRL+プラス.png)
+
+  ![image](CTRL+SHIFT+ESC.png)
+
 - ## EXCEL
 
   ![image](CTRL+E.png)
