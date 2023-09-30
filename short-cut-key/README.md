@@ -13,3 +13,5 @@
 - ## CHROME
 
   ![image](F12.png)
+
+  ![image](CTRL+プラス.png)
