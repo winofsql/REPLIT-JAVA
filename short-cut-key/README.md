@@ -9,3 +9,7 @@
   ![image](CTRL+E.png)
 
   ![image](F12.png)
+
+- ## CHROME
+
+  ![image](F12.png)
