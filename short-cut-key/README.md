@@ -4,6 +4,8 @@
   
   ![image](CTRL+ALT+DEL.png)
 
+  ![image](WIN+SHIFT+S.png)
+
   ![image](CTRL+プラス.png)
 
   ![image](CTRL+SHIFT+ESC.png)
