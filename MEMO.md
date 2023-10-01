@@ -147,3 +147,57 @@
     ![Untitled](https://github.com/winofsql/REPLIT-Java-PHP-js-Python/assets/1501327/d89117ed-2258-44b3-8ef5-b9a597f3bdb0)
 
  
+## ✅ 9月29日
+
+- ### Google Chrome の 白のウインドウを使って、主なログインを終了時にログアウトする
+  - [chrome-policy-logout.reg](https://github.com/winofsql/policies-chrome/blob/main/chrome-policy-logout.reg)
+  - 白い Chrome では CTRL + T で閉じたタブをもう一度開く事ができる
+  - 閲覧履歴も見れる
+  ```
+  "1"="[*.]google.com"
+  "2"="github.com"
+  "3"="replit.com"
+  "4"="[*.]lolipop.jp"
+  "5"="paiza.jp"
+  "6"="[*.]zoom.us"
+  "7"="twitter.com"
+  ```
+
+- ### Replit で Bash テンプレートで Linux の簡単なコマンドを実行
+  - vi をインストールしてみる
+    - 終了は : を押して、q を入力して Enter
+
+- ### Replit のPHP Server に GitHub のサンプルをダウンロードして実行する
+  - PHP Web Server テンプレートを使用
+  - 以下テキストファイルに書き込む軽視版のインストールコマンド
+  ```
+  export PS1="$ "
+  git clone https://github.com/winofsql/php-board-v02-textfile.git
+  cd php-board-v02-textfile
+  rm -rf .git
+  cd ..
+  ```
+  - 以下データベースに書き込む軽視版のインストールコマンド
+  ```
+  export PS1="$ "
+  git clone https://github.com/winofsql/php-board-v06-database.git
+  cd php-board-v02-textfile
+  rm -rf .git
+  cd ..
+  ```
+
+- ### Excel の勉強
+  - ### スタート画面なしの設定( いきなりワークシート画面 )
+  - ### デフォルトで PC に保存する( F12 のほうが速い )
+  - ### CTRL + E で、部分取り出しオートフィル
+    - ### SQLの窓で MDB から 社員マスタのデータを使って Excel をエクスポート
+    - ### 列の整列
+      1. 列の選択
+      2. 選択内の境界をどこでもいいからダブルクリック
+      3. 分解したい列の右横に列を作成
+      4. 先頭行のみ分解した値をセット
+      5. その行のタイトル部分で CTRL + E
+
+- ### SQLの窓の勉強
+  - ### MDB -> Excel へのエクスポート
+    - 複数テーブルを指定すると、テーブル毎にシートが作成されます
