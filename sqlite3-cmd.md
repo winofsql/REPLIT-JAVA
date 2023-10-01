@@ -25,7 +25,7 @@
     - #### 🔴 .save lightbox.sqlite3
 
   - ### shell での sqlite3 の引数の help は sqlite3 --help
-  - ### sqlite3 内のコマンドの help　は .help
+  - ### sqlite3 内のコマンドの help は .help
   - ### 各コマンドの詳細 help は .help ドット無しのコマンド名( 例: .help restore )
     ```
     sqlite> .help restore
