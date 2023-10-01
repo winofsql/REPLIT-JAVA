@@ -22,6 +22,9 @@
 
   ![image](CTRL+プラス.png)
 
+  ![image](CTRL+SHIFT+T.png)
+
+  ![image](CTRL+SHIFT+DEL.png)
 
 
 <br><br><br><br><br><br>
