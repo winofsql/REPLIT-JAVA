@@ -10,7 +10,7 @@
       - [📕 HashMap for loop](https://replit.com/@sworc/java-hash-map-for)
       - [📕 HashMap forEach method + Counter class](https://replit.com/@sworc/java-map-foreach-method-counter)
       - [📕 HashMap forEach Lambda + Counter values](https://replit.com/@sworc/java-hash-map-foreach-lambd)
-      - [📕 CSVファイル入出力(キャラクタセット変更)](https://replit.com/@sworc/java-0928-CSVhuairuRu-Chu-Li-kiyarakutasetutoBian-Geng)
+      - [📕 java-0928-CSVファイル入出力(キャラクタセット変更)](https://replit.com/@sworc/java-0928-CSVhuairuRu-Chu-Li-kiyarakutasetutoBian-Geng)
     - ### 🔶 Excel( Apache POI )
       - [🢃 Download](https://archive.apache.org/dist/poi/release/bin/)
       - [📰 Document](https://poi.apache.org/apidocs/index.html)
