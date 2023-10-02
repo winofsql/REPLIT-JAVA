@@ -24,6 +24,7 @@
         - [📰 CSVReaderHeaderAware](https://javadoc.io/static/com.opencsv/opencsv/5.8/com/opencsv/CSVReaderHeaderAware.html)
           - [📰 MAP による取得( Quick start )](https://opencsv.sourceforge.net/#quick_start)
       - [📕 CSV から SQLite3 へ直接登録](https://replit.com/@sworc/java-csv-to-sqlite3)
+        - [📕 java-0928-opencsvで読んでSQLiteにinsertで書き込む](https://replit.com/@sworc/java-0928-opencsvdeDu-ndeSQLiteniinsertdeShu-kiIp-mu)
       - [📕 SQLite3 > CSV](https://replit.com/@sworc/java-sqlite3-to-csv)
     - ### 🔶 PDF( pdfbox )
       - [🢃 Download](https://pdfbox.apache.org/download.html)
