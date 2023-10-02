@@ -87,6 +87,7 @@
 
   - ### 230927-🟦水曜
     - [📕 java-0927-コマンド毎にクラスを作成して処理する自前プロンプトサンプル](https://replit.com/@sworc/java-0927-komandoMei-nikurasuwoZuo-Cheng-siteChu-Li-suruZi-Qian-puronputosanpuru)
+    - [📕 java-0927-SQLiteを読み込んでCSVを作成](https://replit.com/@sworc/java-0927-SQLitewoDu-miIp-ndeCSVwoZuo-Cheng)
 
   - ### 230928-🟧木曜
 
