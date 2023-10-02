@@ -36,6 +36,7 @@
       - [📕 準備:既存のテーブルの CREATE文の作成 / Shellと連携](https://replit.com/@sworc/java-sqlite3-check)
       - [📕 SELECT 文のループ読み込み](https://replit.com/@sworc/java-sqlite3-select-01)
         - [📕 java-0921-SQLiteを読み込んでCSVを作成するいくつかの方法](https://replit.com/@sworc/java-0921-SQLitewoDu-miIp-ndeCSVwoZuo-Cheng-suruikutukanoFang-Fa)
+        - [📕 java-0927-SQLiteを読み込んでCSVを作成](https://replit.com/@sworc/java-0927-SQLitewoDu-miIp-ndeCSVwoZuo-Cheng)
         - [📕 java-0928-SQLiteを読み込んでCSVをファイル出力](https://replit.com/@sworc/java-0928-SQLitewoDu-miIp-ndeCSVwohuairuChu-Li)
       - [📕 INSERT文の実行](https://replit.com/@sworc/java-sqlite3-execute-01)
         - 条件付き CREATE > DELETE(TRUNCATEの代替) > SELECT で空の確認 > INSERT １件
