@@ -72,9 +72,10 @@
 
 
   - ### 230920-🟦水曜
-    - [📕 PHP : SQLite3 : Exceute, Prepare & Execute](https://replit.com/@sworc/php-pdo-sqlite-1#index.php)
-    - [📕 PHP : Select 一覧表示](https://replit.com/@sworc/php-0920-1#index.php)
-      - [📕 PHP : FetchAll => JSON](https://replit.com/@sworc/php-json-syain-sqlite3)
+    - [📕 java-0920-コマンド毎にクラスを作成して処理する自前プロンプトサンプル](https://replit.com/@sworc/java-0920-komandoMei-nikurasuwoZuo-Cheng-siteChu-Li-suruZi-Qian-puronputosanpuru)
+      - [📕 PHP : SQLite3 : Exceute, Prepare & Execute](https://replit.com/@sworc/php-pdo-sqlite-1#index.php)
+      - [📕 PHP : Select 一覧表示](https://replit.com/@sworc/php-0920-1#index.php)
+        - [📕 PHP : FetchAll => JSON](https://replit.com/@sworc/php-json-syain-sqlite3)
 
   - ### 230921-🟧木曜
     - [📕 java-0921-SQLiteを読み込んでCSVを作成するいくつかの方法](https://replit.com/@sworc/java-0921-SQLitewoDu-miIp-ndeCSVwoZuo-Cheng-suruikutukanoFang-Fa)
