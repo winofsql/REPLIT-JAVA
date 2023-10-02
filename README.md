@@ -3,6 +3,7 @@
     - ### 🔶 Basic
       - [📕 stdin](https://replit.com/@sworc/java-stdin)
         - [📕 java-0920-コマンド毎にクラスを作成して処理する自前プロンプトサンプル](https://replit.com/@sworc/java-0920-komandoMei-nikurasuwoZuo-Cheng-siteChu-Li-suruZi-Qian-puronputosanpuru)
+        - [📕 java-0927-コマンド毎にクラスを作成して処理する自前プロンプトサンプル](https://replit.com/@sworc/java-0927-komandoMei-nikurasuwoZuo-Cheng-siteChu-Li-suruZi-Qian-puronputosanpuru)
       - [📕 ArrayList](https://replit.com/@sworc/java-array-list)
         - [📰 ArrayList](https://docs.oracle.com/javase/jp/8/docs/api/index.html?java/util/ArrayList.html)
         - [📰 List インタフェース](https://docs.oracle.com/javase/jp/8/docs/api/index.html?java/util/List.html)
