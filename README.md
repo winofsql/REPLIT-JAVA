@@ -90,7 +90,11 @@
     - [📕 java-0927-SQLiteを読み込んでCSVを作成](https://replit.com/@sworc/java-0927-SQLitewoDu-miIp-ndeCSVwoZuo-Cheng)
 
   - ### 230928-🟧木曜
-
+    - [📕 java-0928-CSVファイル入出力(キャラクタセット変更)](https://replit.com/@sworc/java-0928-CSVhuairuRu-Chu-Li-kiyarakutasetutoBian-Geng)
+    - [📕 java-0928-opencsvでCSVの内容をMapとして読み込む](https://replit.com/@sworc/java-0928-opencsvdeCSVnoNei-Rong-woMaptositeDu-miIp-mu)
+    - [📕 java-0928-opencsvで読んでSQLiteにinsertで書き込む](https://replit.com/@sworc/java-0928-opencsvdeDu-ndeSQLiteniinsertdeShu-kiIp-mu)
+    
+    
 
 <br><hr><br>
 
