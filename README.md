@@ -86,6 +86,7 @@
       - StringBuilder を使用して文字列を取得
 
   - ### 230927-🟦水曜
+    - [📕 java-0927-コマンド毎にクラスを作成して処理する自前プロンプトサンプル](https://replit.com/@sworc/java-0927-komandoMei-nikurasuwoZuo-Cheng-siteChu-Li-suruZi-Qian-puronputosanpuru)
 
   - ### 230928-🟧木曜
 
