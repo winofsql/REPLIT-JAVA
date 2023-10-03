@@ -169,7 +169,7 @@
 
 - ### Replit のPHP Server に GitHub のサンプルをダウンロードして実行する
   - PHP Web Server テンプレートを使用
-  - 以下テキストファイルに書き込む軽視版のインストールコマンド
+  - 以下テキストファイルに書き込む掲示板のインストールコマンド
   ```
   export PS1="$ "
   git clone https://github.com/winofsql/php-board-v02-textfile.git
@@ -177,7 +177,7 @@
   rm -rf .git
   cd ..
   ```
-  - 以下データベースに書き込む軽視版のインストールコマンド
+  - 以下データベースに書き込む掲示板のインストールコマンド
   ```
   export PS1="$ "
   git clone https://github.com/winofsql/php-board-v06-database.git
