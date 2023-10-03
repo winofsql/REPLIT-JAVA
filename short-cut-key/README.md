@@ -10,6 +10,8 @@
 
   ![image](CTRL+SHIFT+ESC.png)
 
+  ![image](WIN+Z.png)
+
 - ## EXCEL
 
   ![image](CTRL+E.png)
