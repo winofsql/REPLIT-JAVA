@@ -12,6 +12,9 @@
 
   ![image](WIN+Z.png)
 
+  ![image](COPY_PASTE.png)
+
+
 - ## EXCEL
 
   ![image](CTRL+E.png)
