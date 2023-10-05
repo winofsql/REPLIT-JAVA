@@ -46,6 +46,10 @@
           - [📰 Document](https://javadoc.io/doc/net.lingala.zip4j/zip4j/latest/net/lingala/zip4j/ZipFile.html)
       - [📕 内容一覧](https://replit.com/@sworc/java-zip-01)
       - [📕 解凍](https://replit.com/@sworc/java-zip-02)
+     
+    - ### 🔶 メール
+      - [📕 java-1004-メール送信](https://replit.com/@sworc/java-1004-meruSong-Xin)
+      - 
   - ### ✅ Swing
       - [📕 Swing basic0](https://replit.com/@sworc/java-swing-basic0)
       - [📕 Swing basic1](https://replit.com/@sworc/java-swing-basic1)
