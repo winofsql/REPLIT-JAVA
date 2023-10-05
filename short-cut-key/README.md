@@ -16,6 +16,8 @@
 
   ![image](WIN+V.png)
 
+  ![image](WIN+PAUSE.png)
+
 - ## EXCEL
 
   ![image](CTRL+E.png)
