@@ -37,6 +37,7 @@
 
   ![image](CTRL+SHIFT+DEL.png)
 
+  ![image](CTRL+SHIFT+B.png)
 
 - ## ZOOM
   ![image](CTRL+SHIFT+ALT+H.png)
