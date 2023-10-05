@@ -19,9 +19,13 @@
   ![image](F12.png)
 
   ![image](CTRL+D.png)
+  
   ![image](CTRL+SHIFT+↓.png)
 
-  
+  ![image](AUTOFILL.png)
+
+  ![image](COPY-WIDTH.png)
+
 
 - ## CHROME
 
