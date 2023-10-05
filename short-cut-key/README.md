@@ -43,6 +43,9 @@
 - ## ZOOM
   ![image](CTRL+SHIFT+ALT+H.png)
   
+- ## ペイント
+  ![image](MSPAINT-ZUKEI.png)
+  
 
 
 <br><br><br><br><br><br>
