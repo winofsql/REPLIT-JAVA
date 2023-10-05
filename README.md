@@ -116,7 +116,6 @@
     - [📕 課題問題集-10-04](https://replit.com/@sworc/Ke-Ti-Wen-Ti-Ji-10-04) 
 
   - ### 231005-🟧木曜
-    - [📕 java-1005-opencsvでSQLiteからcsvに書き込む2](https://replit.com/@sworc/java-1005-opencsvdeSQLitekaracsvniShu-kiIp-mu2)
     - [📕 java用基礎のメモ](https://replit.com/@sworc/javaYong-Ji-Chu-nomemo)
       - [プリミティブ型（boolean, byte, char, short, int, long, float, double）](https://www.tohoho-web.com/java/syntax.htm#premitive)
       - [配列](https://www.tohoho-web.com/java/variable.htm#array)
@@ -125,6 +124,7 @@
       - [文字列](https://java-code.jp/category/string)
         - テキストプロック
       - [ストリーム](https://java-code.jp/category/stream)
+    - [📕 java-1005-opencsvでSQLiteからcsvに書き込む2](https://replit.com/@sworc/java-1005-opencsvdeSQLitekaracsvniShu-kiIp-mu2)
 
 <br><hr><br>
 
