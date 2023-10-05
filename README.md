@@ -122,7 +122,7 @@
       - [ArrayList](https://java-code.jp/236)
       - [HashMap](https://java-code.jp/232)
       - [文字列](https://java-code.jp/category/string)
-        - テキストプロック
+        - テキストブロック
       - [ストリーム](https://java-code.jp/category/stream)
     - [📕 java-1005-opencsvでSQLiteからcsvに書き込む2](https://replit.com/@sworc/java-1005-opencsvdeSQLitekaracsvniShu-kiIp-mu2)
 
