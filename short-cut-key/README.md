@@ -14,6 +14,7 @@
 
   ![image](COPY_PASTE.png)
 
+  ![image](WIN+V.png)
 
 - ## EXCEL
 
