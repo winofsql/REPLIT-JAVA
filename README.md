@@ -99,7 +99,13 @@
     - [📕 java-0928-opencsvで読んでSQLiteにinsertで書き込む](https://replit.com/@sworc/java-0928-opencsvdeDu-ndeSQLiteniinsertdeShu-kiIp-mu)
     - [📕 java-0928-SQLiteを読み込んでCSVをファイル出力](https://replit.com/@sworc/java-0928-SQLitewoDu-miIp-ndeCSVwohuairuChu-Li)
     
-    
+  - ### 231004-🟦水曜
+    - [📕 java-1004-メール送信](https://replit.com/@sworc/java-1004-meruSong-Xin)
+    - [📕 java-1004-WEB上のURLにPOST(GET)する](https://replit.com/@sworc/java-1004-WEBShang-noURLniPOSTGETsuru)
+      - Replit に PHP の呼び出し先を置いてテスト
+        - [📕 php-post-test-api](https://replit.com/@sworc/php-post-test-api)
+    - [📕 課題問題集-10-04](https://replit.com/@sworc/Ke-Ti-Wen-Ti-Ji-10-04) 
+
 
 <br><hr><br>
 
