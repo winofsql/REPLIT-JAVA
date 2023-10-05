@@ -26,6 +26,7 @@
 
   ![image](COPY-WIDTH.png)
 
+  ![image](seiretu.png)
 
 - ## CHROME
 
