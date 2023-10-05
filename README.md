@@ -1,6 +1,6 @@
 - ### 📗 Java ......... [PHP](PHP.md) ......... [Python](python.md) ......... [MEMO](MEMO.md)
   - ### ✅ Console
-    - #### [java用基礎のメモ](https://replit.com/@sworc/javaYong-Ji-Chu-nomemo)
+    - #### 🔶 [java用基礎のメモ](https://replit.com/@sworc/javaYong-Ji-Chu-nomemo)
     - ### 🔶 Basic
       - [📕 stdin](https://replit.com/@sworc/java-stdin)
         - [📕 java-0920-コマンド毎にクラスを作成して処理する自前プロンプトサンプル](https://replit.com/@sworc/java-0920-komandoMei-nikurasuwoZuo-Cheng-siteChu-Li-suruZi-Qian-puronputosanpuru)
