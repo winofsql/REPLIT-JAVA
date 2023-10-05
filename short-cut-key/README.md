@@ -18,6 +18,11 @@
 
   ![image](F12.png)
 
+  ![image](CTRL+D.png)
+  ![image](CTRL+SHIFT+↓.png)
+
+  
+
 - ## CHROME
 
   ![image](F12.png)
