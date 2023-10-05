@@ -1,5 +1,6 @@
 - ### 📗 Java ......... [PHP](PHP.md) ......... [Python](python.md) ......... [MEMO](MEMO.md)
   - ### ✅ Console
+    - ### [java用基礎のメモ](https://replit.com/@sworc/javaYong-Ji-Chu-nomemo)
     - ### 🔶 Basic
       - [📕 stdin](https://replit.com/@sworc/java-stdin)
         - [📕 java-0920-コマンド毎にクラスを作成して処理する自前プロンプトサンプル](https://replit.com/@sworc/java-0920-komandoMei-nikurasuwoZuo-Cheng-siteChu-Li-suruZi-Qian-puronputosanpuru)
@@ -19,6 +20,7 @@
       - [🢃 Download](https://archive.apache.org/dist/poi/release/bin/)
       - [📰 Document](https://poi.apache.org/apidocs/index.html)
       - [📕 新しい Book のセルにデータをセット](https://replit.com/@sworc/java-excel-newbook-cell)
+
     - ### 🔶 OpenCSV
       - [🢃 Download](https://sourceforge.net/projects/opencsv/)
       - [📰 Document : Package com.opencsv](https://javadoc.io/static/com.opencsv/opencsv/5.8/com/opencsv/package-summary.html)
@@ -30,6 +32,8 @@
       - [📕 CSV から SQLite3 へ直接登録](https://replit.com/@sworc/java-csv-to-sqlite3)
         - [📕 java-0928-opencsvで読んでSQLiteにinsertで書き込む](https://replit.com/@sworc/java-0928-opencsvdeDu-ndeSQLiteniinsertdeShu-kiIp-mu)
       - [📕 SQLite3 > CSV](https://replit.com/@sworc/java-sqlite3-to-csv)
+        - [📕 java-1005-opencsvでSQLiteからcsvに書き込む2](https://replit.com/@sworc/java-1005-opencsvdeSQLitekaracsvniShu-kiIp-mu2)
+
     - ### 🔶 PDF( pdfbox )
       - [🢃 Download](https://pdfbox.apache.org/download.html)
       - [📰 Document](https://javadoc.io/doc/org.apache.pdfbox/pdfbox/latest/index.html)
