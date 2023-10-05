@@ -38,6 +38,7 @@
       - [🢃 Download](https://pdfbox.apache.org/download.html)
       - [📰 Document](https://javadoc.io/doc/org.apache.pdfbox/pdfbox/latest/index.html)
       - [📕 文字列と罫線](https://replit.com/@sworc/java-pdf-basic)
+
     - ### 🔶 SQLite3
       - [🢃 Download:jdbc driver](https://github.com/xerial/sqlite-jdbc/releases)
       - [📕 準備:既存のテーブルの CREATE文の作成 / Shellと連携](https://replit.com/@sworc/java-sqlite3-check)
@@ -47,6 +48,7 @@
         - [📕 java-0928-SQLiteを読み込んでCSVをファイル出力](https://replit.com/@sworc/java-0928-SQLitewoDu-miIp-ndeCSVwohuairuChu-Li)
       - [📕 INSERT文の実行](https://replit.com/@sworc/java-sqlite3-execute-01)
         - 条件付き CREATE > DELETE(TRUNCATEの代替) > SELECT で空の確認 > INSERT １件
+
     - ### 🔶 ZIP書庫( zip4j )
         - [GitHub](https://github.com/srikanth-lingala/zip4j)
           - [🢃 Download](https://mvnrepository.com/artifact/net.lingala.zip4j/zip4j)
@@ -113,6 +115,16 @@
         - [📕 php-post-test-api](https://replit.com/@sworc/php-post-test-api)
     - [📕 課題問題集-10-04](https://replit.com/@sworc/Ke-Ti-Wen-Ti-Ji-10-04) 
 
+  - ### 231005-🟧木曜
+    - [📕 java-1005-opencsvでSQLiteからcsvに書き込む2](https://replit.com/@sworc/java-1005-opencsvdeSQLitekaracsvniShu-kiIp-mu2)
+    - [📕 java用基礎のメモ](https://replit.com/@sworc/javaYong-Ji-Chu-nomemo)
+      - [プリミティブ型（boolean, byte, char, short, int, long, float, double）](https://www.tohoho-web.com/java/syntax.htm#premitive)
+      - [配列](https://www.tohoho-web.com/java/variable.htm#array)
+      - [ArrayList](https://java-code.jp/236)
+      - [HashMap](https://java-code.jp/232)
+      - [文字列](https://java-code.jp/category/string)
+        - テキストプロック
+      - [ストリーム](https://java-code.jp/category/stream)
 
 <br><hr><br>
 
