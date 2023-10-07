@@ -3,8 +3,8 @@
   ![image](WIN+I.png)
   
   ![image](CTRL+ALT+DEL.png)
-  
-  ![image](https://github.com/winofsql/REPLIT-Java-PHP-js-Python/assets/1501327/e01a6f8a-83e8-4a05-9db7-a4ebf9192a75)
+
+  ![image](https://github.com/winofsql/REPLIT-Java-PHP-js-Python/assets/1501327/761dc76f-dfc7-4966-b0a0-484ca8af69c3)
 
   ![image](WIN+SHIFT+S.png)
 
