@@ -204,3 +204,11 @@
 
 
 ## ✅ 10月06日
+
+- ### Windows リテラシー
+  - ### [コンピュ－タの管理](https://github.com/winofsql/REPLIT-Java-PHP-js-Python/tree/main/windows/control)
+  - ### グループポリシーエディタ
+  - ### [ターミナル](https://github.com/winofsql/REPLIT-Java-PHP-js-Python/tree/main/windows/terminal)
+    - コマンドプロンプト
+      - 環境変数
+      - 現在いるディレクトリ をエクスプローラで開く
