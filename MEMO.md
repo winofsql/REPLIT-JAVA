@@ -212,3 +212,6 @@
     - コマンドプロンプト
       - 環境変数
       - 現在いるディレクトリ をエクスプローラで開く
+ - ### [ショートカットキー](https://github.com/winofsql/REPLIT-Java-PHP-js-Python/tree/main/short-cut-key)
+   -  Windows
+   -  Excel
