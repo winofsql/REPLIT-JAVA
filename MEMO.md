@@ -215,3 +215,19 @@
  - ### [ショートカットキー](https://github.com/winofsql/REPLIT-Java-PHP-js-Python/tree/main/short-cut-key)
    -  Windows
    -  Excel
+
+## ✅ 10月13日
+
+- ### SQLの窓の利用
+  - ### SQLの窓の表示をSQL化する
+  - ### CSV 出力
+  - ### 他 RDBMS へのエクスポート
+
+- ### Access と Excel をデータベースツールとして利用する
+  - ### Access
+    - ODBC 経由で他のデータベースのテーブルをリンクして使用する
+  - ### Excel
+    - SQL の窓から MySQLまたはAccess のテーブルを Excel としてエクスポートして利用
+    - SQL の窓から MySQLまたはAccess のテーブルを CSV としてエクスポートして利用
+    - CSV を Excel を開いた時の注意
+      - ユーザ形式でフォーマットし、クリップボードにコピーして手作業でデータを加工する
