@@ -135,8 +135,6 @@
     - [📕 java-1012-opencsvでSQLiteからcsvに書き込む6](https://replit.com/@sworc/java-1012-opencsvdeSQLitekaracsvniShu-kiIp-mu6)
       - クラスメソッドを削除してインスタンスメソッドとして内容を最低限整える
 
-https://replit.com/@sworc/java-1012-opencsvdeSQLitekaracsvniShu-kiIp-mu3
-
 <br><hr><br>
 
   - [とほほ Java](https://www.tohoho-web.com/java/)
