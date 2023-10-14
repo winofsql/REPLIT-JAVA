@@ -222,6 +222,7 @@
   - SQLの窓の表示をSQL化する
   - CSV 出力
   - 他 RDBMS へのエクスポート
+  - ODBC 経由で SQlite にリンクされた MDB を開いて SQlite のテーブルを処理する
 
 - ### Access と Excel をデータベースツールとして利用する
   - ### Access
