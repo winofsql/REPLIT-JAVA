@@ -83,7 +83,6 @@
       - q 入力で終了
     - [📕 swing-0914-コントロールは絶対位置指定で入力値をコンソールに出力する](https://replit.com/@sworc/swing-0914-kontororuhaJue-Dui-Wei-Zhi-Zhi-Ding-deRu-Li-Zhi-wokonsoruniChu-Li-suru)
 
-
   - ### 230920-🟦水曜
     - [📕 java-0920-コマンド毎にクラスを作成して処理する自前プロンプトサンプル](https://replit.com/@sworc/java-0920-komandoMei-nikurasuwoZuo-Cheng-siteChu-Li-suruZi-Qian-puronputosanpuru)
       - [📕 PHP : SQLite3 : Exceute, Prepare & Execute](https://replit.com/@sworc/php-pdo-sqlite-1#index.php)
@@ -125,6 +124,18 @@
         - テキストブロック
       - [ストリーム](https://java-code.jp/category/stream)
     - [📕 java-1005-opencsvでSQLiteからcsvに書き込む2](https://replit.com/@sworc/java-1005-opencsvdeSQLitekaracsvniShu-kiIp-mu2)
+
+  - ### 231012-🟧木曜
+    - [📕 java-1012-opencsvでSQLiteからcsvに書き込む3](java-1012-opencsvでSQLiteからcsvに書き込む3)
+      - Main.java 内に Csv クラスを作成して処理をクラスメソッドとして移行する
+    - [📕 java-1012-opencsvでSQLiteからcsvに書き込む4](https://replit.com/@sworc/java-1012-opencsvdeSQLitekaracsvniShu-kiIp-mu4)
+      - Main.java の内部に作成した Csv クラスを 外部(Csv.java) に移行
+    - [📕 java-1012-opencsvでSQLiteからcsvに書き込む5](https://replit.com/@sworc/java-1012-opencsvdeSQLitekaracsvniShu-kiIp-mu5)
+      - static で作成したクラスメソッドを同じ内容でインスタンスメソッドとして実装
+    - [📕 java-1012-opencsvでSQLiteからcsvに書き込む6](https://replit.com/@sworc/java-1012-opencsvdeSQLitekaracsvniShu-kiIp-mu6)
+      - クラスメソッドを削除してインスタンスメソッドとして内容を最低限整える
+
+https://replit.com/@sworc/java-1012-opencsvdeSQLitekaracsvniShu-kiIp-mu3
 
 <br><hr><br>
 
