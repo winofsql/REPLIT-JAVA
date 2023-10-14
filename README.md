@@ -33,6 +33,10 @@
         - [📕 java-0928-opencsvで読んでSQLiteにinsertで書き込む](https://replit.com/@sworc/java-0928-opencsvdeDu-ndeSQLiteniinsertdeShu-kiIp-mu)
       - [📕 SQLite3 > CSV](https://replit.com/@sworc/java-sqlite3-to-csv)
         - [📕 java-1005-opencsvでSQLiteからcsvに書き込む2](https://replit.com/@sworc/java-1005-opencsvdeSQLitekaracsvniShu-kiIp-mu2)
+        - [📕 java-1012-opencsvでSQLiteからcsvに書き込む3](java-1012-opencsvでSQLiteからcsvに書き込む3)
+        - [📕 java-1012-opencsvでSQLiteからcsvに書き込む4](https://replit.com/@sworc/java-1012-opencsvdeSQLitekaracsvniShu-kiIp-mu4)
+        - [📕 java-1012-opencsvでSQLiteからcsvに書き込む5](https://replit.com/@sworc/java-1012-opencsvdeSQLitekaracsvniShu-kiIp-mu5)
+        - [📕 java-1012-opencsvでSQLiteからcsvに書き込む6](https://replit.com/@sworc/java-1012-opencsvdeSQLitekaracsvniShu-kiIp-mu6)
 
     - ### 🔶 PDF( pdfbox )
       - [🢃 Download](https://pdfbox.apache.org/download.html)
