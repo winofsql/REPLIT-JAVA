@@ -1,6 +1,6 @@
 |  |  |  |  |  |
 | --- | --- | --- | --- | --- |
-| [Windows](README.md#windows) | [EXCEL](README.md#EXCEL) | [CHROME](README.md#CHROME) | [ZOOM](README.md#ZOOM) | [ペイント](README.md#-ペイント) |
+| [Windows](README.md#windows) | [EXCEL](README.md#EXCEL) | [CHROME](README.md#CHROME) | [ZOOM](README.md#ZOOM) | [ペイント](README.md#ペイント) |
 
 
 - ## Windows
