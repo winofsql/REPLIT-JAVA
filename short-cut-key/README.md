@@ -1,6 +1,6 @@
 |  |  |  |  |  |
 | --- | --- | --- | --- | --- |
-| [Windows](MEMO.md#-Windows) | [EXCEL](MEMO.md#-EXCEL) | [CHROME](MEMO.md#-CHROME) | [ZOOM](MEMO.md#-ZOOM) | [ペイント](MEMO.md#-ペイント) |
+| [Windows](MEMO.md#Windows) | [EXCEL](MEMO.md#EXCEL) | [CHROME](MEMO.md#CHROME) | [ZOOM](MEMO.md#ZOOM) | [ペイント](MEMO.md#-ペイント) |
 
 
 - ## Windows
