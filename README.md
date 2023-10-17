@@ -2,7 +2,7 @@
   - ### ✅ Console
     - ### 🔶 [java用基礎のメモ](https://replit.com/@sworc/javaYong-Ji-Chu-nomemo)
     - ### 🔶 Basic
-      - [📕 stdin](https://replit.com/@sworc/java-stdin)
+      1. [📕 stdin](https://replit.com/@sworc/java-stdin)
         - [📕 java-0920-コマンド毎にクラスを作成して処理する自前プロンプトサンプル](https://replit.com/@sworc/java-0920-komandoMei-nikurasuwoZuo-Cheng-siteChu-Li-suruZi-Qian-puronputosanpuru)
         - [📕 java-0927-コマンド毎にクラスを作成して処理する自前プロンプトサンプル](https://replit.com/@sworc/java-0927-komandoMei-nikurasuwoZuo-Cheng-siteChu-Li-suruZi-Qian-puronputosanpuru)
       - [📕 ArrayList](https://replit.com/@sworc/java-array-list)
