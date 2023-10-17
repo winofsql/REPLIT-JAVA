@@ -19,7 +19,7 @@
     - ### 🔶 Excel( Apache POI )
       - [🢃 Download](https://archive.apache.org/dist/poi/release/bin/)
       - [📰 Document](https://poi.apache.org/apidocs/index.html)
-      - [📕 新しい Book のセルにデータをセット](https://replit.com/@sworc/java-excel-newbook-cell)
+      - [📶📕 新しい Book のセルにデータをセット](https://replit.com/@sworc/java-excel-newbook-cell)
 
     - ### 🔶 OpenCSV
       - [🢃 Download](https://sourceforge.net/projects/opencsv/)
@@ -41,24 +41,24 @@
     - ### 🔶 PDF( pdfbox )
       - [🢃 Download](https://pdfbox.apache.org/download.html)
       - [📰 Document](https://javadoc.io/doc/org.apache.pdfbox/pdfbox/latest/index.html)
-      - [📕 文字列と罫線](https://replit.com/@sworc/java-pdf-basic)
+      - [📶📕 文字列と罫線](https://replit.com/@sworc/java-pdf-basic)
 
     - ### 🔶 SQLite3
       - [🢃 Download:jdbc driver](https://github.com/xerial/sqlite-jdbc/releases)
-      - [📕 準備:既存のテーブルの CREATE文の作成 / Shellと連携](https://replit.com/@sworc/java-sqlite3-check)
-      - [📕 SELECT 文のループ読み込み](https://replit.com/@sworc/java-sqlite3-select-01)
+      - [📶📕 準備:既存のテーブルの CREATE文の作成 / Shellと連携](https://replit.com/@sworc/java-sqlite3-check)
+      - [📶📕 SELECT 文のループ読み込み](https://replit.com/@sworc/java-sqlite3-select-01)
         - [📕 java-0921-SQLiteを読み込んでCSVを作成するいくつかの方法](https://replit.com/@sworc/java-0921-SQLitewoDu-miIp-ndeCSVwoZuo-Cheng-suruikutukanoFang-Fa)
         - [📕 java-0927-SQLiteを読み込んでCSVを作成](https://replit.com/@sworc/java-0927-SQLitewoDu-miIp-ndeCSVwoZuo-Cheng)
         - [📕 java-0928-SQLiteを読み込んでCSVをファイル出力](https://replit.com/@sworc/java-0928-SQLitewoDu-miIp-ndeCSVwohuairuChu-Li)
-      - [📕 INSERT文の実行](https://replit.com/@sworc/java-sqlite3-execute-01)
+      - [📶📕 INSERT文の実行](https://replit.com/@sworc/java-sqlite3-execute-01)
         - 条件付き CREATE > DELETE(TRUNCATEの代替) > SELECT で空の確認 > INSERT １件
 
     - ### 🔶 ZIP書庫( zip4j )
         - [GitHub](https://github.com/srikanth-lingala/zip4j)
           - [🢃 Download](https://mvnrepository.com/artifact/net.lingala.zip4j/zip4j)
           - [📰 Document](https://javadoc.io/doc/net.lingala.zip4j/zip4j/latest/net/lingala/zip4j/ZipFile.html)
-      - [📕 内容一覧](https://replit.com/@sworc/java-zip-01)
-      - [📕 解凍](https://replit.com/@sworc/java-zip-02)
+      - [📶📕 内容一覧](https://replit.com/@sworc/java-zip-01)
+      - [📶📕 解凍](https://replit.com/@sworc/java-zip-02)
      
     - ### 🔶 メール
       - [📕 java-1004-メール送信](https://replit.com/@sworc/java-1004-meruSong-Xin)
