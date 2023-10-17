@@ -2,16 +2,16 @@
   - ### ✅ Console
     - ### 🔶 [java用基礎のメモ](https://replit.com/@sworc/javaYong-Ji-Chu-nomemo)
     - ### 🔶 Basic
-      1. [📕 stdin](https://replit.com/@sworc/java-stdin)
+      1. [📶📕 stdin](https://replit.com/@sworc/java-stdin)
         - [📕 java-0920-コマンド毎にクラスを作成して処理する自前プロンプトサンプル](https://replit.com/@sworc/java-0920-komandoMei-nikurasuwoZuo-Cheng-siteChu-Li-suruZi-Qian-puronputosanpuru)
         - [📕 java-0927-コマンド毎にクラスを作成して処理する自前プロンプトサンプル](https://replit.com/@sworc/java-0927-komandoMei-nikurasuwoZuo-Cheng-siteChu-Li-suruZi-Qian-puronputosanpuru)
-      - [📕 ArrayList](https://replit.com/@sworc/java-array-list)
+      - [📶📕 ArrayList](https://replit.com/@sworc/java-array-list)
         - [📰 ArrayList](https://docs.oracle.com/javase/jp/8/docs/api/index.html?java/util/ArrayList.html)
         - [📰 List インタフェース](https://docs.oracle.com/javase/jp/8/docs/api/index.html?java/util/List.html)
-      - [📕 HashMap iterator](https://replit.com/@sworc/java-hash-map-iterator)
-      - [📕 HashMap for loop](https://replit.com/@sworc/java-hash-map-for)
-      - [📕 HashMap forEach method + Counter class](https://replit.com/@sworc/java-map-foreach-method-counter)
-      - [📕 HashMap forEach Lambda + Counter values](https://replit.com/@sworc/java-hash-map-foreach-lambda)
+      - [📶📕 HashMap iterator](https://replit.com/@sworc/java-hash-map-iterator)
+      - [📶📕 HashMap for loop](https://replit.com/@sworc/java-hash-map-for)
+      - [📶📕 HashMap forEach method + Counter class](https://replit.com/@sworc/java-map-foreach-method-counter)
+      - [📶📕 HashMap forEach Lambda + Counter values](https://replit.com/@sworc/java-hash-map-foreach-lambda)
       - #### ストリーム
         - [📕 java-0928-CSVファイル入出力(キャラクタセット変更)](https://replit.com/@sworc/java-0928-CSVhuairuRu-Chu-Li-kiyarakutasetutoBian-Geng)
         - [📕 java-1004-WEB上のURLにPOST(GET)する](https://replit.com/@sworc/java-1004-WEBShang-noURLniPOSTGETsuru)
