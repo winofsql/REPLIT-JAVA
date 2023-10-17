@@ -13,8 +13,10 @@
       - [📶📕 HashMap forEach method + Counter class](https://replit.com/@sworc/java-map-foreach-method-counter)
       - [📶📕 HashMap forEach Lambda + Counter values](https://replit.com/@sworc/java-hash-map-foreach-lambda)
       - #### ストリーム
-        - [📕 java-0928-CSVファイル入出力(キャラクタセット変更)](https://replit.com/@sworc/java-0928-CSVhuairuRu-Chu-Li-kiyarakutasetutoBian-Geng)
-        - [📕 java-1004-WEB上のURLにPOST(GET)する](https://replit.com/@sworc/java-1004-WEBShang-noURLniPOSTGETsuru)
+        - [📶📕 SHIFT_JIS の読み込み](https://replit.com/@sworc/java-csv-read-ms932)
+        - [📶📕 SHIFT_JIS から UTF-8 へ変換](https://replit.com/@sworc/java-charset-change)
+          - [📕 java-0928-CSVファイル入出力(キャラクタセット変更)](https://replit.com/@sworc/java-0928-CSVhuairuRu-Chu-Li-kiyarakutasetutoBian-Geng)
+          - [📕 java-1004-WEB上のURLにPOST(GET)する](https://replit.com/@sworc/java-1004-WEBShang-noURLniPOSTGETsuru)
 
     - ### 🔶 Excel( Apache POI )
       - [🢃 Download](https://archive.apache.org/dist/poi/release/bin/)
