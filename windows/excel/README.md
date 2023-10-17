@@ -1,6 +1,4 @@
 
-- ### CSV 読み込み
-  https://github.com/winofsql/REPLIT-Java-PHP-js-Python/assets/1501327/e78cc6f9-4d9e-46ce-a692-7e68076ce1c4
 
+https://github.com/winofsql/REPLIT-Java-PHP-js-Python/assets/1501327/c1274d59-9dc5-4db0-83b0-dee34aa0ab1b
 
-   
