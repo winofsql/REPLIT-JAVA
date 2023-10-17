@@ -66,15 +66,15 @@
       - [📕 java-1004-メール送信](https://replit.com/@sworc/java-1004-meruSong-Xin)
 
   - ### ✅ Swing
-      - [📕 Swing basic0](https://replit.com/@sworc/java-swing-basic0)
-      - [📕 Swing basic1](https://replit.com/@sworc/java-swing-basic1)
-      - [📕 Swing basic2](https://replit.com/@sworc/java-swing-basic2)
+      - [📶📕 Swing basic0](https://replit.com/@sworc/java-swing-basic0)
+      - [📶📕 Swing basic1](https://replit.com/@sworc/java-swing-basic1)
+      - [📶📕 Swing basic2](https://replit.com/@sworc/java-swing-basic2)
         - [📕 swing-0914-コントロールは絶対位置指定で入力値をコンソールに出力する](https://replit.com/@sworc/swing-0914-kontororuhaJue-Dui-Wei-Zhi-Zhi-Ding-deRu-Li-Zhi-wokonsoruniChu-Li-suru)
-      - [📕 Swing jtable-csv](https://replit.com/@sworc/java-swing-jtable-csv)
+      - [📶📕 Swing jtable-csv](https://replit.com/@sworc/java-swing-jtable-csv)
   - ### ✅ Web
-      - [📕 CSV Download](https://replit.com/@sworc/java-csv-download)
-      - [📕 CSV Download as bin](https://replit.com/@sworc/java-csv-download-as-bin)
-      - [📕 JSON to CSV](https://replit.com/@sworc/java-json-to-csv)
+      - [📶📕 CSV Download](https://replit.com/@sworc/java-csv-download)
+      - [📶📕 CSV Download as bin](https://replit.com/@sworc/java-csv-download-as-bin)
+      - [📶📕 JSON to CSV](https://replit.com/@sworc/java-json-to-csv)
         - [gson : GitHub](https://github.com/google/gson)
           - [🢃 download](https://search.maven.org/artifact/com.google.code.gson/gson/2.10.1/jar)
           - [📰 document](https://www.javadoc.io/doc/com.google.code.gson/gson/latest/com.google.gson/com/google/gson/Gson.html)
