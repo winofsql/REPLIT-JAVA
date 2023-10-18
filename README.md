@@ -132,7 +132,7 @@
     - [📕 java-1005-opencsvでSQLiteからcsvに書き込む2](https://replit.com/@sworc/java-1005-opencsvdeSQLitekaracsvniShu-kiIp-mu2)
 
   - ### 231012-🟧木曜
-    - [📕 java-1012-opencsvでSQLiteからcsvに書き込む3](java-1012-opencsvでSQLiteからcsvに書き込む3)
+    - [📕 java-1012-opencsvでSQLiteからcsvに書き込む3](https://replit.com/@sworc/java-1012-opencsvdeSQLitekaracsvniShu-kiIp-mu3)
       - Main.java 内に Csv クラスを作成して処理をクラスメソッドとして移行する
     - [📕 java-1012-opencsvでSQLiteからcsvに書き込む4](https://replit.com/@sworc/java-1012-opencsvdeSQLitekaracsvniShu-kiIp-mu4)
       - Main.java の内部に作成した Csv クラスを 外部(Csv.java) に移行
