@@ -142,7 +142,7 @@
       - クラスメソッドを削除してインスタンスメソッドとして内容を最低限整える
 
   - ### 231018-🟦水曜
-    - [📕 java-1012-opencsvでSQLiteからcsvに書き込む7](https://replit.com/@sworc/java-1012-opencsvdeSQLitekaracsvniShu-kiIp-mu7)
+    - [📕 java-1018-opencsvでSQLiteからcsvに書き込む7](https://replit.com/@sworc/java-1012-opencsvdeSQLitekaracsvniShu-kiIp-mu7)
 
 <br><hr><br>
 
