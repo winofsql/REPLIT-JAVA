@@ -32,3 +32,9 @@ notepad.exe %SystemRoot%\system32\drivers\etc\hosts
 | ユーザ自動起動 | HKCU\Software\Microsoft\Windows\CurrentVersion\Run
 | ODBCドライバ(64) | HKLM\SOFTWARE\ODBC\ODBCINST.INI
 | ODBCドライバ(32) | HKLM\SOFTWARE\WOW6432Node\ODBC\ODBCINST.INI
+
+## アプリケーションショートカットフォルダ
+shell:Common StartUp
+( この一つ上 )
+
+control => Windows ツール
