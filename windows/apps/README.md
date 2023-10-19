@@ -16,7 +16,7 @@
 | 共有フォルダ | fsmgmt.msc
 | プログラムと機能 | control appwiz.cpl
 | ファイアウォール詳細 | mmc wf.msc
-
+| ネットワーク接続一覧 | RunDLL32.EXE shell32.dll,Control_RunDLL ncpa.cpl 
 
 
 ## HOSTSファイル
