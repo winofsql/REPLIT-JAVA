@@ -17,6 +17,8 @@
 | プログラムと機能 | control appwiz.cpl
 | ファイアウォール詳細 | mmc wf.msc
 | ネットワーク接続一覧 | RunDLL32 shell32.dll,Control_RunDLL ncpa.cpl 
+| ネットワークドライブの割り当て | RunDLL32 shell32.dll,SHHelpShortcuts_RunDLL Connect
+
 
 
 ## HOSTSファイル
