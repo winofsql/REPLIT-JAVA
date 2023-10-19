@@ -6,6 +6,7 @@
 | スクリーンキーボード | osk
 | ペイント | mspaint
 | タスクマネージャ | taskmgr ( CTRL + SHIFT + ESC )
+| ディスククリーンアップ | cleanmgr
 | コントロールパネル | control
 | 拡大鏡 | magnify : WIN + プラス,WIN + マイナス,WIN + ESC
 | ODBCデータソースアドミニストレータ(64) | odbcad32 ( 32ビット用は syswow64 フォルダ内 )
