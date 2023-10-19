@@ -11,6 +11,7 @@
 | ODBCデータソースアドミニストレータ(64) | odbcad32 ( 32ビット用は syswow64 フォルダ内 )
 | レジストリエディタ | regedit
 | リモートデスクトップ接続 | mstsc
+| リモートデスクトップの設定( 受信側 ) | SystemPropertiesRemote.exe
 | ユーザとグループ | netplwiz
 | 共有フォルダ | fsmgmt.msc
 | プログラムと機能 | control.exe appwiz.cpl
