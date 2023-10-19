@@ -15,6 +15,9 @@
 | ユーザとグループ | netplwiz
 | 共有フォルダ | fsmgmt.msc
 | プログラムと機能 | control appwiz.cpl
+| ファイアウォール詳細 | mmc wf.msc
+
+
 
 ## HOSTSファイル
 ```
