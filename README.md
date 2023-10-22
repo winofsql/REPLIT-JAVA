@@ -148,6 +148,7 @@
     - [📕 java-インターネットのjsonデータをダウンロードして利用](https://replit.com/@sworc/java-intanetutonojsondetawodaunrodositeLi-Yong)
       - Gson で class に JSON データを展開する
       - JSON データを Replit の PHP サーバーテンプレートで作成し使用する
+        - [php-git-🟥 【JSONデータAPI】](https://replit.com/@sworc/php-git-JSONdetaAPI)
 
 <br><hr><br>
 
