@@ -246,3 +246,7 @@
   - HOSTSファイル
   - syswow64 フォルダ( 32ビット用アプリケーシラン )
   - タスクマネージャからの管理者権限実行
+
+
+## ✅ 10月27日
+  - [SQL問題](https://winofsql.jp/src/database/winofsql/?src=sql-test-a)
