@@ -150,6 +150,9 @@
       - JSON データを Replit の PHP サーバーテンプレートで作成し使用する
         - [php-git-🟥 【JSONデータAPI】](https://replit.com/@sworc/php-git-JSONdetaAPI)
 
+  - ### 231025-🟦水曜
+    - [📕 java-pdfboxを使ってPDF作成](https://replit.com/@sworc/java-pdfboxwoShi-tutePDFZuo-Cheng)
+
 <br><hr><br>
 
   - [とほほ Java](https://www.tohoho-web.com/java/)
