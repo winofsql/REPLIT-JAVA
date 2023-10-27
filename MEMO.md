@@ -260,4 +260,9 @@
       | ODBCドライバ(64) | HKLM\SOFTWARE\ODBC\ODBCINST.INI
       | ODBCドライバ(32) | HKLM\SOFTWARE\WOW6432Node\ODBC\ODBCINST.INI
   - ### 🟧 プログラムと機能
+  - ### 🟧 Excel の自動化
+    - JavaScript( TypeScript )
+    - VBA ( マクロ ) / 開発メニューを設定で表示させる
+      - ### 実行方法
+        - 自分のメニュー
   - [SQL問題](https://winofsql.jp/src/database/winofsql/?src=sql-test-a)
