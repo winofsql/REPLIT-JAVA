@@ -294,4 +294,6 @@
         - 指示に従って実行( メニューから )
         - 一回目は、認証
         - ２回目以降が通常の運用
+    3. 実行部分の UI の確認
+        - 拡張機能 => Apps Script 
   - [SQL問題](https://winofsql.jp/src/database/winofsql/?src=sql-test-a)
