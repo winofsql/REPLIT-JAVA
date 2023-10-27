@@ -249,4 +249,5 @@
 
 
 ## ✅ 10月27日
+  - ### 🟧 タスクマネージャ
   - [SQL問題](https://winofsql.jp/src/database/winofsql/?src=sql-test-a)
