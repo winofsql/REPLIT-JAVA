@@ -275,8 +275,14 @@
     - JavaScript( TypeScript )
     - VBA ( マクロ ) / 開発メニューを設定で表示させる
       - ### マクロの使い方
-        1. 開発メニューからマクロの記録 
+        1. 開発メニューからマクロの記録
+        2. 記録終了
+        3. マクロアイコンで存在確認
+        4. 保存
       - ### 実行方法
         - 自分のメニュー
+          1. メニユーに追加
+          2. 実行( セキュリティエラー )
+          3. 一旦、メニーから削除して再度保存( Microsoft のバグ??? )
   - ### 🟧 Google スプレッドシート( GAS : JavaScript )
   - [SQL問題](https://winofsql.jp/src/database/winofsql/?src=sql-test-a)
