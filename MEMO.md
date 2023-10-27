@@ -251,4 +251,5 @@
 ## ✅ 10月27日
   - ### 🟧 タスクマネージャ
   - ### 🟧 コントロールパネル
+  - ### 🟧 レジストリエディタ
   - [SQL問題](https://winofsql.jp/src/database/winofsql/?src=sql-test-a)
