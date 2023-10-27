@@ -252,5 +252,13 @@
   - ### 🟧 タスクマネージャ
   - ### 🟧 コントロールパネル
   - ### 🟧 レジストリエディタ
+    -レジストリエントリ
+      | 名称 | 実行
+      | :--- | :--- 
+      | システム自動起動 | HKLM\Software\Microsoft\Windows\CurrentVersion\Run
+      | ユーザ自動起動 | HKCU\Software\Microsoft\Windows\CurrentVersion\Run
+      | ODBCドライバ(64) | HKLM\SOFTWARE\ODBC\ODBCINST.INI
+      | ODBCドライバ(32) | HKLM\SOFTWARE\WOW6432Node\ODBC\ODBCINST.INI
+  - 
   - ### 🟧 プログラムと機能
   - [SQL問題](https://winofsql.jp/src/database/winofsql/?src=sql-test-a)
