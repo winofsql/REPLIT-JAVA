@@ -265,4 +265,5 @@
     - VBA ( マクロ ) / 開発メニューを設定で表示させる
       - ### 実行方法
         - 自分のメニュー
+  - ### 🟧 Google スプレッドシート( GAS : JavaScript )
   - [SQL問題](https://winofsql.jp/src/database/winofsql/?src=sql-test-a)
