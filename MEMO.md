@@ -254,7 +254,7 @@
     - スタートアップアプリ
       - shell:startup / ユーザのログイン時に実行するショートカット等を保存するフォルダ
       - shell:Common Startup / 共通
-        - [参集](https://www.den-tsu.net/windowsshell/)
+        - [参照](https://www.den-tsu.net/windowsshell/)
   - ### 🟧 コントロールパネル
   - ### 🟧 レジストリエディタ
     - レジストリエントリ
