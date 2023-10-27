@@ -252,9 +252,13 @@
   - ### 🟧 タスクマネージャ
     - 新しいタスクを実行する
     - スタートアップアプリ
-      - shell:startup / ユーザのログイン時に実行するショートカット等を保存するフォルダ
-      - shell:Common Startup / 共通
-        - [参照](https://www.den-tsu.net/windowsshell/)
+      - フォルダ　
+        - shell:startup / ユーザのログイン時に実行するショートカット等を保存するフォルダ
+        - shell:Common Startup / 共通
+          - [参照](https://www.den-tsu.net/windowsshell/)
+      - レジストリエントリ
+         - HKLM\Software\Microsoft\Windows\CurrentVersion\Run
+         - HKCU\Software\Microsoft\Windows\CurrentVersion\Run
   - ### 🟧 コントロールパネル
   - ### 🟧 レジストリエディタ
     - レジストリエントリ
