@@ -253,6 +253,8 @@
     - 新しいタスクを実行する
     - スタートアップアプリ
       - shell:startup / ユーザのログイン時に実行するショートカット等を保存するフォルダ
+      - shell:Common Startup / 共通
+        - [参集](https://www.den-tsu.net/windowsshell/)
   - ### 🟧 コントロールパネル
   - ### 🟧 レジストリエディタ
     - レジストリエントリ
