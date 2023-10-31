@@ -157,6 +157,11 @@
   - ### 231025-🟦水曜
     - [📕 java-pdfboxを使ってPDF作成](https://replit.com/@sworc/java-pdfboxwoShi-tutePDFZuo-Cheng)
 
+  - ### 231026-🟧木曜
+    - [📕 java-pdfboxを使ってPDF作成2](https://replit.com/@sworc/java-pdfboxwoShi-tutePDFZuo-Cheng-2)
+    - [📕 java-pdfboxを使ってPDF作成3](https://replit.com/@sworc/java-pdfboxwoShi-tutePDFZuo-Cheng-3)
+    - [📕 java-pdfboxを使ってPDF作成4](https://replit.com/@sworc/java-pdfboxwoShi-tutePDFZuo-Cheng-4)
+
 <br><hr><br>
 
   - [とほほ Java](https://www.tohoho-web.com/java/)
