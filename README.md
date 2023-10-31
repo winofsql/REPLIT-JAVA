@@ -162,6 +162,8 @@
       - AI に指示して社員一覧を作成
         - AllayList と Employee クラスを AI が促成
         - フォーマットと内容が日本式で無いので修正
+          - ヘッダーを作成
+          - 社員を日本人にする
     - [📕 java-pdfboxを使ってPDF作成3](https://replit.com/@sworc/java-pdfboxwoShi-tutePDFZuo-Cheng-3)
     - [📕 java-pdfboxを使ってPDF作成4](https://replit.com/@sworc/java-pdfboxwoShi-tutePDFZuo-Cheng-4)
 
