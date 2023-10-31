@@ -164,6 +164,7 @@
         - フォーマットと内容が日本式で無いので修正
           - ヘッダーを作成
           - 社員を日本人にする
+          - 数値項目は右寄せでカンマ編集
     - [📕 java-pdfboxを使ってPDF作成3](https://replit.com/@sworc/java-pdfboxwoShi-tutePDFZuo-Cheng-3)
     - [📕 java-pdfboxを使ってPDF作成4](https://replit.com/@sworc/java-pdfboxwoShi-tutePDFZuo-Cheng-4)
 
