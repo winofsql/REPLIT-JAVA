@@ -83,7 +83,7 @@
           - [🢃 download](https://search.maven.org/artifact/com.google.code.gson/gson/2.10.1/jar)
           - [📰 document](https://www.javadoc.io/doc/com.google.code.gson/gson/latest/com.google.gson/com/google/gson/Gson.html)
 
-  - ### 230914-🟧木曜
+  - ### 🟧木曜-230914
     - [sqlite3/wget をインストール](https://replit.com/@sworc/php-0914-1#README.md)\
       ![image](https://github.com/winofsql/REPLIT-Java-PHP-js-Python/assets/1501327/3e104c23-4867-4529-9e94-f27ef1f0a8f1)
        - Shellを使う
