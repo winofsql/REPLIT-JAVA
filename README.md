@@ -167,6 +167,7 @@
           - 数値項目は右寄せでカンマ編集
           - 改ページを行う
     - [📕 java-pdfboxを使ってPDF作成3](https://replit.com/@sworc/java-pdfboxwoShi-tutePDFZuo-Cheng-3)
+      - データをSQLite から取得するように改造
     - [📕 java-pdfboxを使ってPDF作成4](https://replit.com/@sworc/java-pdfboxwoShi-tutePDFZuo-Cheng-4)
 
 <br><hr><br>
