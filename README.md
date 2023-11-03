@@ -173,6 +173,13 @@
     - [📕 java-pdfboxを使ってPDF作成4](https://replit.com/@sworc/java-pdfboxwoShi-tutePDFZuo-Cheng-4)
       - バグや問題点の排除と共に総合的な整備
 
+  - ### 231101-🟦水曜
+    - [📕 java-pdfboxを使ってPDF作成5-1101](https://replit.com/@sworc/java-pdfboxwoShi-tutePDFZuo-Cheng-5-1101)
+      - ある程度整備されたコードの確認
+        - 特にヘッダ印字に関して( ループ内で行う )
+      - A4 横印字のテスト
+
+
 <br><hr><br>
 
   - [とほほ Java](https://www.tohoho-web.com/java/)
