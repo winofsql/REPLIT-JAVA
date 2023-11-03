@@ -178,7 +178,7 @@
       - ある程度整備されたコードの確認
         - 特にヘッダ印字に関して( ループ内で行う )
       - A4 横印字のテスト
-      - Replit の Java を VSCode で実行する手順
+      - ✅ Replit の Java を VSCode で実行する手順
 
     - [📕 AI に Java のコードを参照させて Python で簡単な PDF 出力を作成](https://replit.com/@sworc/python-pdf-test-ai-1101)
 
