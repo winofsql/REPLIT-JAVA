@@ -178,8 +178,10 @@
       - ある程度整備されたコードの確認
         - 特にヘッダ印字に関して( ループ内で行う )
       - A4 横印字のテスト
+      - Replit の Java を VSCode で実行する手順
 
     - [📕 AI に Java のコードを参照させて Python で簡単な PDF 出力を作成](https://replit.com/@sworc/python-pdf-test-ai-1101)
+
     - [📕 書庫処理による内部の階層ファイルの参照](https://replit.com/@sworc/java-zip-01-Shu-Ku-Chu-Li-1101)
       - java の jar ファイルを参照してみる
 
