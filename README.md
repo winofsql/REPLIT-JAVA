@@ -180,7 +180,11 @@
       - A4 横印字のテスト
 
     - [📕 AI に Java のコードを参照させて Python で簡単な PDF 出力を作成](https://replit.com/@sworc/python-pdf-test-ai-1101)
+    - [📕 書庫処理による内部の階層ファイルの参照](https://replit.com/@sworc/java-zip-01-Shu-Ku-Chu-Li-1101)
+      - java の jar ファイルを参照してみる
 
+    - [📕 java-zip-02-書庫指定階層ファイル追加と指定フォルダへ解凍-1101](https://replit.com/@sworc/java-zip-02-Shu-Ku-Zhi-Ding-Jie-Ceng-huairuZhui-Jia-toZhi-Ding-huorudaheJie-Dong-1101)
+      - 階層指定する追加と解凍の処理
 
 <br><hr><br>
 
