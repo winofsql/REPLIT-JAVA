@@ -179,6 +179,8 @@
         - 特にヘッダ印字に関して( ループ内で行う )
       - A4 横印字のテスト
 
+    - [📕 AI に Java のコードを参照させて Python で簡単な PDF 出力を作成](https://replit.com/@sworc/python-pdf-test-ai-1101)
+
 
 <br><hr><br>
 
