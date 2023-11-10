@@ -310,6 +310,6 @@
       - javascript で削除
         - document.getElementById("id文字列").remove();
   - ### 🟧 [vscode.dev](https://vscode.dev/) でブックマークレット用コードを編集
-    - ブックマークレットとしてへ損して動作確認
+    - ブックマークレットとして登録(ブックマーク)して動作確認
     - 拡張をインストールして、SHIFT + ALT + F で JavaScript の自動フォーマット
     
