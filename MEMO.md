@@ -304,4 +304,9 @@
     - [2022-03.pdf](https://github.com/winofsql/examination-data/blob/main/2022-03.pdf)
       - Windowsキーのショートカット
       - タスクマネージャ
+  - ### 🟧 Chrome でページ内の要素を削除
+    - インスペクタ => 要素 => 削除
+    - コンソール
+      - javascript で削除
+        - document.getElementById("id文字列").remove();
   
