@@ -189,6 +189,11 @@
       - 階層指定する追加と解凍の処理
 
   - ### 231108-🟦水曜
+    - VScode で ZIP 処理の環境を作って、継承のコード化
+      - メソッドの継承
+      - 引数の無いコンストラクタの自動継承
+    - [zip処理の継承テスト](https://replit.com/@sworc/zipChu-Li-noJi-Cheng-tesuto)
+    - [Eclipse で Swing プロジェクトを作成する再確認](https://github.com/winofsql/subject3/blob/main/workspace/window-builder.md)
 
   - ### 231109-🟧木曜
 
