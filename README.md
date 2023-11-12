@@ -196,6 +196,21 @@
     - [Eclipse で Swing プロジェクトを作成する再確認](https://github.com/winofsql/subject3/blob/main/workspace/window-builder.md)
 
   - ### 231109-🟧木曜
+    - [VScode で ZIP 処理の環境を作って、継承のコード化](https://github.com/winofsql/subject-java-zip-231109)
+      - 引数のあるコンストラクタの呼び出し( 呼び出さないと実行されない )
+      - 大元のクラスで処理の基礎を作成しておく
+        - 継承したクラスは拡張した機能を実装
+    - Eclipse でバッチ処理
+      - zip 処理を移行
+        -  クラスパスに .jar を追加
+    - Replit の Excel 処理の動作確認
+      - Replit のパッケージからインストールする場合は注意
+        - org.apache.poi:poi-ooxml@5.2.4 をインストール
+    - [C# で Excel 処理](https://github.com/winofsql/cs-con-excel-new)
+      - ブックを作成してセルに値をセットして Excel で起動
+        - Windows では COM という特殊なクラスを使う
+          - Excel がインストールされている Windows の PC に登録されている
+    
 
 <br><hr><br>
 
