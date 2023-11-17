@@ -330,3 +330,4 @@
   - ### WEB ページを JavaScript で参照
     - console.log と console.dir
       - 前者は toString、後者は オブジェクトとして プロパティとメソッドの一覧
+    - [var elements = document.getElementsByTagName(name)](https://developer.mozilla.org/ja/docs/Web/API/Document/getElementsByTagName)
