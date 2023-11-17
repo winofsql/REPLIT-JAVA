@@ -331,3 +331,5 @@
     - console.log と console.dir
       - 前者は toString、後者は オブジェクトとして プロパティとメソッドの一覧
     - [var elements = document.getElementsByTagName(name)](https://developer.mozilla.org/ja/docs/Web/API/Document/getElementsByTagName)
+    - [var elements = document.getElementsByName(name)](https://developer.mozilla.org/ja/docs/Web/API/Document/getElementsByName)
+    - [var element = document.getElementById(id)](https://developer.mozilla.org/ja/docs/Web/API/Document/getElementById)
