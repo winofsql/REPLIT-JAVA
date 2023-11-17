@@ -325,3 +325,8 @@
       - CTRL + P
       - 詳細設定でヘッダーとフッターのチェックを外す
       - 送信先を PDF に保存
+
+## ✅ 11月17日
+  - ### WEB ページを JavaScript で参照
+    - console.log と console.dir
+      - 前者は toString、後者は オブジェクトとして プロパティとメソッドの一覧
