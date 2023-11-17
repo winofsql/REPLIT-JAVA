@@ -333,4 +333,4 @@
     - [var elements = document.getElementsByTagName(name)](https://developer.mozilla.org/ja/docs/Web/API/Document/getElementsByTagName)
     - [var elements = document.getElementsByName(name)](https://developer.mozilla.org/ja/docs/Web/API/Document/getElementsByName)
     - [var element = document.getElementById(id)](https://developer.mozilla.org/ja/docs/Web/API/Document/getElementById)
-      - [Document.getElementsByClassName()](https://developer.mozilla.org/ja/docs/Web/API/Document/getElementsByClassName)
+      - [cocument.getElementsByClassName()](https://developer.mozilla.org/ja/docs/Web/API/Document/getElementsByClassName)
