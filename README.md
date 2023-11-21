@@ -216,7 +216,7 @@
       - Swing サンプル
         - [java-swing-input-field-action](https://github.com/winofsql/java-swing-input-field-action)
           - GridLayout
-            - 納品用では無く、処理のテスト用なら絶対指定よりずっと楽
+            - 納品用では無く、処理のテスト用なら絶対位置指定よりずっと楽
       - Excel( POI )
         - ライブラリは古いバージョンは削除する
     - Eclipse
