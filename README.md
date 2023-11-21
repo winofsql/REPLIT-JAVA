@@ -213,7 +213,7 @@
     
   - ### 231106-🟧木曜
     - VSCode
-      - Sweing サンプル
+      - Swing サンプル
         - [java-swing-input-field-action](https://github.com/winofsql/java-swing-input-field-action)
           - GridLayout
 
