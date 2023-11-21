@@ -216,6 +216,11 @@
       - Swing サンプル
         - [java-swing-input-field-action](https://github.com/winofsql/java-swing-input-field-action)
           - GridLayout
+      - Excel( POI )
+        - ライブラリは古いバージョンは削除する
+    - Eclipse
+      - 一つのワークスペースに複数プロジェクト
+        - 参照ライブラリは複数の場合一括選択
 
 <br><hr><br>
 
