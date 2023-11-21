@@ -217,6 +217,10 @@
         - [java-swing-input-field-action](https://github.com/winofsql/java-swing-input-field-action)
           - GridLayout
             - 納品用では無く、処理のテスト用なら絶対位置指定よりずっと楽
+          - 絶対位置指定
+            - 業務用アプリでは必須
+              - 基本機能を親として継承してアプり特有の処理のクラスを作るべき
+                - とにかく、後々の汎用性や再利用が楽になるようクラス構成する
       - Excel( POI )
         - ライブラリは古いバージョンは削除する
     - Eclipse
