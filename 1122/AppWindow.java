@@ -186,14 +186,21 @@ public class AppWindow extends BaseWindow {
             lblSeibetu.setBounds(60, 30+50+30+30, 80, 19);
             jContentPane.add(lblSeibetu);
 
+            // 非表示の性別テキストフィールド
             jSeibetu = new JTextField();
             jSeibetu.setBounds(150, 30+50+30+30, 30, 19);
             jContentPane.add(jSeibetu);
+            jSeibetu.setVisible(false);
 
             genderComboBox = new JComboBox<>(genderLabels);
             genderComboBox.setBounds(150, 30+50+30+30+30, 150, 19);
             jContentPane.add(genderComboBox);
 
+
+            // 初期状態の画面制御
+            jSname.setEnabled(false);
+            jFuri.setEnabled(false);
+            genderComboBox.setEnabled(false);
 
         }
         return jContentPane;
