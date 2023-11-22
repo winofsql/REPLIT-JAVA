@@ -30,6 +30,10 @@ public class AppWindow extends BaseWindow {
     private JLabel lblSeibetu = null;
     private JTextField jSeibetu = null;
 
+    private JComboBox<String> genderComboBox;
+    private Object[] genders = {0, 1};
+    private String[] genderLabels = {"男性", "女性"};
+
     public int mainWidth = 600;
     public int mainHeight = 400;
     public String titleString = "Swing 簡易サンプル";
@@ -71,13 +75,9 @@ public class AppWindow extends BaseWindow {
 
                         // 整数
                         int seibetu = rs.getInt("性別");
-                        if ( seibetu == 0 ) {
-                            System.out.println("男性");
-                        }
-                        else {
-                            System.out.println("女性");
-                        }
                         jSeibetu.setText(seibetu+"");
+                        genderComboBox.setSelectedIndex(seibetu);
+
 
                         // 文字列
                         String seibetu2 = String.format("%d", seibetu);
@@ -189,6 +189,10 @@ public class AppWindow extends BaseWindow {
             jSeibetu = new JTextField();
             jSeibetu.setBounds(150, 30+50+30+30, 30, 19);
             jContentPane.add(jSeibetu);
+
+            genderComboBox = new JComboBox<>(genderLabels);
+            genderComboBox.setBounds(150, 30+50+30+30+30, 150, 19);
+            jContentPane.add(genderComboBox);
 
 
         }
