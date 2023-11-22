@@ -18,6 +18,18 @@ public class AppWindow extends BaseWindow {
     private JLabel lblScode = null;
     private JTextField jScode = null;
 
+    // 氏名
+    private JLabel lblSname = null;
+    private JTextField jSname = null;
+
+    // フリガナ
+    private JLabel lblFuri = null;
+    private JTextField jFuri = null;
+
+    // 性別
+    private JLabel lblSeibetu = null;
+    private JTextField jSeibetu = null;
+
     public int mainWidth = 600;
     public int mainHeight = 400;
     public String titleString = "Swing 簡易サンプル";
@@ -42,13 +54,20 @@ public class AppWindow extends BaseWindow {
                         // ステートメント
                         stmt = conn.createStatement();
                         // SQL 実行
-                        rs = stmt.executeQuery("select * from 社員マスタ where 社員コード = '0001'");
+                        String sCode = jScode.getText();
+                        rs = stmt.executeQuery("select * from 社員マスタ where 社員コード = '" + sCode + "'");
 
                         // 一行取り出し
                         rs.next();
+
                         // 社員名
                         String sName = rs.getString("氏名");
-                        MsgOk(sName);
+                        jSname.setText(sName);
+
+                        // 社員名
+                        String sFuri = rs.getString("フリガナ");
+                        jFuri.setText(sFuri);
+
 
                         // 整数
                         int seibetu = rs.getInt("性別");
@@ -58,6 +77,7 @@ public class AppWindow extends BaseWindow {
                         else {
                             System.out.println("女性");
                         }
+                        jSeibetu.setText(seibetu+"");
 
                         // 文字列
                         String seibetu2 = String.format("%d", seibetu);
@@ -145,6 +165,32 @@ public class AppWindow extends BaseWindow {
             jScode = new JTextField();
             jScode.setBounds(150, 30, 60, 19);
             jContentPane.add(jScode);
+
+            lblSname = new JLabel("氏名");
+            lblSname.setBounds(60, 30+50, 80, 19);
+            jContentPane.add(lblSname);
+
+            jSname = new JTextField();
+            jSname.setBounds(150, 30+50, 120, 19);
+            jContentPane.add(jSname);
+
+            lblFuri = new JLabel("フリガナ");
+            lblFuri.setBounds(60, 30+50+30, 80, 19);
+            jContentPane.add(lblFuri);
+
+            jFuri = new JTextField();
+            jFuri.setBounds(150, 30+50+30, 120, 19);
+            jContentPane.add(jFuri);
+
+            lblSeibetu = new JLabel("性別");
+            lblSeibetu.setBounds(60, 30+50+30+30, 80, 19);
+            jContentPane.add(lblSeibetu);
+
+            jSeibetu = new JTextField();
+            jSeibetu.setBounds(150, 30+50+30+30, 30, 19);
+            jContentPane.add(jSeibetu);
+
+
         }
         return jContentPane;
     }
