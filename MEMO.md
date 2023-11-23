@@ -328,6 +328,7 @@
 
 ## ✅ 11月17日
   - ### ペイントのレイヤーと背景透過画像の扱い
+  - ### ブックマークレットによる作業効率アップ
   - ### WEB ページを JavaScript で参照
     - console.log と console.dir
       - 前者は toString、後者は オブジェクトとして プロパティとメソッドの一覧
@@ -335,3 +336,11 @@
     - [var elements = document.getElementsByName(name)](https://developer.mozilla.org/ja/docs/Web/API/Document/getElementsByName)
     - [var element = document.getElementById(id)](https://developer.mozilla.org/ja/docs/Web/API/Document/getElementById)
       - [cocument.getElementsByClassName()](https://developer.mozilla.org/ja/docs/Web/API/Document/getElementsByClassName)
+  - ### Google Chrome
+    - CTRL + SHIFT + DEL でキャッシュ削除ダイアログ
+      - Edge も Firefox も 同じ
+  - ### Google Chrome のデベロッパーツール
+    - Edge も Firefox も F12 で起動
+    - 右クリックから検証のほうが速い
+    - 設定のデバッガで JavaScript 無効が可能
+    - デベロッパーツールが開いている間はページ更新アイコンが右クリックできてメニューが三つ
