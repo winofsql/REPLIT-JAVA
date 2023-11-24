@@ -346,6 +346,6 @@
     - [var elements = document.getElementsByName(name)](https://developer.mozilla.org/ja/docs/Web/API/Document/getElementsByName)
     - [var element = document.getElementById(id)](https://developer.mozilla.org/ja/docs/Web/API/Document/getElementById)
       - [cocument.getElementsByClassName()](https://developer.mozilla.org/ja/docs/Web/API/Document/getElementsByClassName)
-    - ### ルットワーク
+    - ### ネットワーク
     - ### アプリケーション
     - ### 設定
