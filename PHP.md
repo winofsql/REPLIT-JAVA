@@ -27,6 +27,25 @@
         - [📕 php-git-🟥 【掲示板】MVC 掲示板 : テキストファイル](https://replit.com/@sworc/php-git-Jie-Shi-Ban-MVC-Jie-Shi-Ban-tekisutohuairu)
         - [📕 php-git-🟥 【掲示板】MVC掲示板データベース](https://replit.com/@sworc/php-git-Jie-Shi-Ban-MVCJie-Shi-Ban-detabesu)
         - [📕 php-git-🟥 【PDO マスタメンテ】](https://replit.com/@sworc/php-git-PDO-masutamente)
+          - インスト－ル( Shellにて )
+            ```
+            . 0
+            . 1
+            ```
+          - 🟥 【マスタメンテ ver 1】: 表示して修正
+          - 🟥 【マスタメンテ ver 2】: 標準化開始
+          - 🟥 【マスタメンテ ver 3】: 新規登録を追加
+          - 🟥 【マスタメンテ ver 4】: 会話処理(2会話)
+          - 🟥 【マスタメンテ ver 5】: Enter キーで次のフィールドへ移動
+          - 🟥 【マスタメンテ ver 6】: コンボボックスの実装
+          - 🟥 【マスタメンテ ver 7】: HTML 要素の属性による入力制御
+          - 🟥 【マスタメンテ ver 8】: SQL の調整
+          - 🟥 【マスタメンテ ver 9】: カレンダーコントロールの実装
+          - 🟥 【マスタメンテ ver 10】: PHP 会話の標準的なエラー処理
+          - 🟥 【マスタメンテ ver 11】: PHP 編集処理の標準化
+          - 🟥 【マスタメンテ ver 12】: PHP 管理者の IFRAME 問い合わせ参照
+          - 🟥 【マスタメンテ ver 13】: PHP 社員コードの IFRAME 問い合わせ参照
+          - 🟥 【マスタメンテ ver 14】: PHP 社員一覧印刷処理( TCPDF )        
         - [📕 php-git-🟥 【PDO + sqlite : 問い合わせ】/ 9種類 : うち1つは Ajax](https://replit.com/@sworc/php-git-PDO-Wen-iHe-wase)
           - インスト－ル( Shellにて )
             ```
