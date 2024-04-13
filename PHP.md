@@ -29,8 +29,10 @@
         - [📕 php-git-🟥 【PDO マスタメンテ】](https://replit.com/@sworc/php-git-PDO-masutamente)
         - [📕 php-git-🟥 【PDO + sqlite : 問い合わせ】/ 9種類 : うち1つは Ajax](https://replit.com/@sworc/php-git-PDO-Wen-iHe-wase)
           - インスト－ル( Shellにて )
-            - 1) . 0
-            - 2) . 1
+            ```
+            . 0
+            . 1
+            ```
           - 🟥 【問合せ ver 1】: PHP 単純 select
           - 🟥 【問合せ ver 2】: PHP SQL と CSS による表示方法の整備
           - 🟥 【問合せ ver 3】: PHP JavaScript によるテーブルデータの CSV ダウンロード
