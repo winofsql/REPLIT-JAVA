@@ -28,6 +28,16 @@
         - [📕 php-git-🟥 【掲示板】MVC掲示板データベース](https://replit.com/@sworc/php-git-Jie-Shi-Ban-MVCJie-Shi-Ban-detabesu)
         - [📕 php-git-🟥 【PDO マスタメンテ】](https://replit.com/@sworc/php-git-PDO-masutamente)
         - [📕 php-git-🟥 【PDO 問い合わせ】/ 9種類 : うち1つは Ajax](https://replit.com/@sworc/php-git-PDO-Wen-iHe-wase)
+          - 🟥 【問合せ ver 1】: PHP 単純 select
+          - 🟥 【問合せ ver 2】: PHP SQL と CSS による表示方法の整備
+          - 🟥 【問合せ ver 3】: PHP JavaScript によるテーブルデータの CSV ダウンロード
+          - 🟥 【問合せ ver 4】: PHP CSS によるテーブル部分のスクロール
+          - 🟥 【問合せ ver 5】: PHP INPUT 要素で行単位更新
+          - 🟥 【問合せ ver 6】: PHP 動的な INPUT 要素で行単位更新
+          - 🟥 【問合せ ver 7】: PHP チェックボックス行の更新
+          - 🟥 【問合せ ver 8】: PHP 行転送先の更新
+          - 🟥 【ajax 問合せ ver 1】: CSS によるテーブル部分のスクロール
+          
         - [📕 php-git-🟥 【アップロード】](https://replit.com/@sworc/php-git-atupurodo)
 
       - ### 🔷 PDF( TCPDF )
