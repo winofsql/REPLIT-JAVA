@@ -26,7 +26,7 @@
       - ### 🔷 GitHub
         - [📕 php-git-🟥 【掲示板】MVC 掲示板 : テキストファイル](https://replit.com/@sworc/php-git-Jie-Shi-Ban-MVC-Jie-Shi-Ban-tekisutohuairu)
         - [📕 php-git-🟥 【掲示板】MVC掲示板データベース](https://replit.com/@sworc/php-git-Jie-Shi-Ban-MVCJie-Shi-Ban-detabesu)
-        - [📕 php-git-🟥 【PDO マスタメンテ】](https://replit.com/@sworc/php-git-PDO-masutamente)
+        - [📕 php-git-🟥 【PDO + sqlite : マスタメンテ】/ 14種類 】](https://replit.com/@sworc/php-git-PDO-masutamente)
           - インスト－ル( Shellにて )
             ```
             . 0
