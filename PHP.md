@@ -31,6 +31,11 @@
           - 🟥 【掲示板 ver 5】MVC 掲示板 : IFRAME JSON
 
         - [📕 php-git-🟥 【掲示板】MVC掲示板 : データベース](https://replit.com/@sworc/php-git-Jie-Shi-Ban-MVCJie-Shi-Ban-detabesu)
+          - インスト－ル( Shellにて )
+            ```
+            . v06
+            . 1
+            ```
           - 🟥 【掲示板 ver 6】MVC 掲示板 : IFRAME データベース
           - 🟥 【掲示板 ver 7】MVC 掲示板 : IFRAME データベース ブラウザチェック
           - 🟥 【掲示板 ver 8】MVC 掲示板 : IFRAME データベース( MySQL ) データ修正
