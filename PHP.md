@@ -88,6 +88,10 @@
           - 🟥 【ajax 問合せ ver 1】: CSS によるテーブル部分のスクロール
           
         - [📕 php-git-🟥 【アップロード】](https://replit.com/@sworc/php-git-atupurodo)
+          - インスト－ル( Shellにて )
+            ```
+            . 0
+            ```
           - 🟥 【アップロード ver 1】: PHPノーマル１ファイルアップロード
           - 🟥 【アップロード ver 2】: 選択した画像の表示
           - 🟥 【アップロード ver 3】: JavaScript でバイナリ画像データを作成して ajax でアップロード
