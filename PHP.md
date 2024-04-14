@@ -13,7 +13,7 @@
       - [📕 テキストエディタ](https://replit.com/@sworc/js-text-editor)
         - JavaScript で テキストを読み込み ( FileReader )・保存 ( FileSaver.js )
         - JavaScript でキャラクタセット変換 ( encoding.js )
-      - [📕 CSV からテーブル](https://replit.com/@sworc/js-csv-table)
+      - [📕 Local CSV から JavaScript でテーブル表示 / サーバー CSV をJavaScript でダウンロード](https://replit.com/@sworc/js-csv-table)
   - ### ✅ WEB
     - ### 🔶 API
       - [📕 POST のテスト用ターゲット](https://replit.com/@sworc/php-post-test)
