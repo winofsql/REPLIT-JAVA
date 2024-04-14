@@ -25,6 +25,10 @@
 
       - ### 🔷 GitHub
         - [📕 php-git-🟥 【掲示板】MVC 掲示板 : テキストファイル](https://replit.com/@sworc/php-git-Jie-Shi-Ban-MVC-Jie-Shi-Ban-tekisutohuairu)
+          - インスト－ル( Shellにて )
+            ```
+            . 0
+            ```
           - 🟥 【掲示板 ver 2】MVC 掲示板 : テキストファイル
           - 🟥 【掲示板 ver 3】MVC 掲示板 : IFRAME テキストファイル
           - 🟥 【掲示板 ver 4】MVC 掲示板 : IFRAME テキストファイル 標準化
