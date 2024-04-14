@@ -105,8 +105,6 @@
           - 🟥 【TCPDF ver 3】: 社員一覧印刷処理 ( 出力レイアウトのコントロール )
           - 🟥 【TCPDF ver 4】: 社員一覧印刷処理 ( 合計・テキスト効果 )      
 
-      - ### 🔷 Three.js
-        - [📕 three-flying](https://replit.com/@sworc/three-flying)
       - ### 🔷 Effect
         - [📕 createjs-2-move-image](https://replit.com/@sworc/createjs-2-move-image)
         - [📕 createjs-3-shooting](https://replit.com/@sworc/createjs-3-shooting)
@@ -120,6 +118,8 @@
         - ### snow storm
           - [📕 snowstorm-sample](https://replit.com/@sworc/snowstorm-sample)
  
+      - ### 🔷 Three.js
+        - [📕 three-flying](https://replit.com/@sworc/three-flying)
        
 
 <br><hr><br>
