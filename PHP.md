@@ -88,6 +88,12 @@
           - 🟥 【ajax 問合せ ver 1】: CSS によるテーブル部分のスクロール
           
         - [📕 php-git-🟥 【アップロード】](https://replit.com/@sworc/php-git-atupurodo)
+          - 🟥 【アップロード ver 1】: PHPノーマル１ファイルアップロード
+          - 🟥 【アップロード ver 2】: 選択した画像の表示
+          - 🟥 【アップロード ver 3】: JavaScript でバイナリ画像データを作成して ajax でアップロード
+          - 🟥 【アップロード ver 4】: WebRTCでカメラ画像でバイナリ画像データを作成して ajax でアップロード
+          - 🟥 【アップロード ver 5】: 複数一括ファイル選択で画像でバイナリ画像データを作成して ajax でアップロード
+          - 🟥 【アップロード ver 6】: 複数ファイルドラッグ-ドロップで画像でバイナリ画像データを作成して ajax でアップロード
 
         - [📕 php-git-🟥 【TCPDF】](https://replit.com/@sworc/php-git-TCPDF)
           - 🟥 【TCPDF ver 1】: 社員一覧印刷処理 / FONTダウンロード > ( 梅明朝 )
