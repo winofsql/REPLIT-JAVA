@@ -11,8 +11,8 @@
       - [📕 外部JSON からテーブル](https://replit.com/@sworc/js-ajax-table)
     - ### 🔶 Local-File
       - [📕 テキストエディタ](https://replit.com/@sworc/js-text-editor)
-        - JavaScript で テキストを読み込み・保存
-        - JavaScript でキャラクタセット変換
+        - JavaScript で テキストを読み込み(FileReader)・保存(FileSaver.js)
+        - JavaScript でキャラクタセット変換(encoding.js)
       - [📕 CSV からテーブル](https://replit.com/@sworc/js-csv-table)
   - ### ✅ WEB
     - ### 🔶 API
