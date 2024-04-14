@@ -12,8 +12,6 @@
     - ### 🔶 Local-File
       - [📕 テキストエディタ](https://replit.com/@sworc/js-text-editor)
       - [📕 CSV からテーブル](https://replit.com/@sworc/js-csv-table)
-  - ### ✅ SQLite3
-    - [📕 Shell で取得したCSVからデータ作成して処理](https://replit.com/@sworc/php-con-list-sqlite3-by-shell-from-csv)
   - ### ✅ WEB
     - ### 🔶 API
       - [📕 POST のテスト用ターゲット](https://replit.com/@sworc/php-post-test)
@@ -22,6 +20,7 @@
       - ### 🔷 SQLite3
         - [📕 簡単なデータアクセス](https://replit.com/@sworc/php-sqlite3-easy-access)
         - [📕 値のバインド / print_r](https://replit.com/@sworc/php-sqlite3-app1)
+        - [📕 Shell で取得したCSVからデータ作成して処理](https://replit.com/@sworc/php-con-list-sqlite3-by-shell-from-csv)
 
       - ### 🔷 GitHub
         - [📕 php-git-🟥 【掲示板】MVC 掲示板 : テキストファイル](https://replit.com/@sworc/php-git-Jie-Shi-Ban-MVC-Jie-Shi-Ban-tekisutohuairu)
