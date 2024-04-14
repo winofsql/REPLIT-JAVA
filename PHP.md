@@ -76,6 +76,10 @@
         - [📕 php-git-🟥 【アップロード】](https://replit.com/@sworc/php-git-atupurodo)
 
         - [📕 php-git-🟥 【TCPDF】](https://replit.com/@sworc/php-git-TCPDF)
+          - 🟥 【TCPDF ver 1】: 社員一覧印刷処理 / FONTダウンロード > ( 梅明朝 )
+          - 🟥 【TCPDF ver 2】: 社員一覧印刷処理 ( 梅ゴシック使用・タイトルサイズ変更 )
+          - 🟥 【TCPDF ver 3】: 社員一覧印刷処理 ( 出力レイアウトのコントロール )
+          - 🟥 【TCPDF ver 4】: 社員一覧印刷処理 ( 合計・テキスト効果 )      
 
       - ### 🔷 Three.js
         - [📕 three-flying](https://replit.com/@sworc/three-flying)
