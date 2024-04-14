@@ -75,10 +75,7 @@
           
         - [📕 php-git-🟥 【アップロード】](https://replit.com/@sworc/php-git-atupurodo)
 
-      - ### 🔷 PDF( TCPDF )
-        - [📕 php-pdf-01](https://replit.com/@sworc/php-pdf-01)
-        - [📕 php-pdf-02](https://replit.com/@sworc/php-pdf-02)
-          - ドロップシャドウ・文字枠・画像・文字色
+        - [📕 php-git-🟥 【TCPDF】](https://replit.com/@sworc/php-git-TCPDF)
 
       - ### 🔷 Three.js
         - [📕 three-flying](https://replit.com/@sworc/three-flying)
