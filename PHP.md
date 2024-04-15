@@ -28,6 +28,7 @@
 
         - [📕 値のバインド / print_r](https://replit.com/@sworc/php-sqlite3-app1)
         - [📕 wget で外部から取得した CSV からデータ作成して処理](https://replit.com/@sworc/php-con-list-sqlite3-by-shell-from-csv#README.md)
+          - 🟥 [【ダウンロードする CSV】](https://github.com/winofsql/resource-winofsql/blob/main/csv/utf-8/syain-sqlite.csv)
           - 🟥 【sqlite3 コマンド】.import --csv 社員マスタ.csv 社員マスタ
           - 🟥 【PDO select ver 4】使用して内容表示
 
