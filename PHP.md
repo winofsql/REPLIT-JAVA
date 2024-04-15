@@ -131,6 +131,8 @@
           - [📕 createjs-1-easeljs-free-hand-white-board](https://replit.com/@sworc/createjs-1-easeljs-free-hand-white-board)
         - ### snow storm
           - [📕 snowstorm-sample](https://replit.com/@sworc/snowstorm-sample)
+         
+            ![image](https://github.com/winofsql/REPLIT-Java-PHP-js-Python/assets/1501327/08ae27f4-956d-4ae1-804d-1bb4caafd543)
  
       - ### 🔷 Three.js
         - [📕 three-flying](https://replit.com/@sworc/three-flying)
