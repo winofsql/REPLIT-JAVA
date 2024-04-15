@@ -116,7 +116,7 @@
 
       - ### 🔷 Effect
         - [📕 createjs-2-move-image](https://replit.com/@sworc/createjs-2-move-image)
-          - ![image](https://github.com/winofsql/REPLIT-Java-PHP-js-Python/assets/1501327/824c87f6-53fc-4a7b-8f26-ef0e68cece95)
+          ![image](https://github.com/winofsql/REPLIT-Java-PHP-js-Python/assets/1501327/824c87f6-53fc-4a7b-8f26-ef0e68cece95)
 
         - [📕 createjs-3-shooting](https://replit.com/@sworc/createjs-3-shooting)
         - ### basic
