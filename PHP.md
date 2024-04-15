@@ -98,7 +98,7 @@
           - 🟥 【問合せ ver 7】: PHP チェックボックス行の更新
           - 🟥 【問合せ ver 8】: PHP 行転送先の更新
           - 🟥 【ajax 問合せ ver 1】: CSS によるテーブル部分のスクロール
-          
+          - 🟥 【ajax 問合せ ver 2】: 行単位での給与の入力結果を ajax で送ってログで確認
         - [📕 php-git-🟥 【アップロード】](https://replit.com/@sworc/php-git-atupurodo)
           - インスト－ル( Shellにて )
             ```
