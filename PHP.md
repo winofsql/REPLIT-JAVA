@@ -121,7 +121,7 @@
 
         - [📕 createjs-3-shooting](https://replit.com/@sworc/createjs-3-shooting)
        
-          ![image](https://github.com/winofsql/REPLIT-Java-PHP-js-Python/assets/1501327/a14f8e89-2db8-428b-b3c1-f787f5521663)
+          ![image](https://github.com/winofsql/REPLIT-Java-PHP-js-Python/assets/1501327/723c885a-f5d3-4344-81ee-c8f844191ef7)
       
         - ### basic
           - [📕 createjs-4-move-star-1](https://replit.com/@sworc/createjs-4-move-star-1)
