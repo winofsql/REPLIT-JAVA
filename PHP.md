@@ -20,7 +20,12 @@
       - [📕 SQLite3 の内容を JSON で取得](https://replit.com/@sworc/php-json-syain-sqlite3)
     - ### 🔶Browser
       - ### 🔷 SQLite3
-        - [📕 簡単なデータアクセス](https://replit.com/@sworc/php-sqlite3-easy-access)
+        - [📕 PDO で簡単なデータアクセス](https://replit.com/@sworc/php-sqlite3-easy-access)
+          - 🟥 【PDO select ver 1】: 社員マスタ 1 / 連想配列の列名指定
+          - 🟥 【PDO select ver 2】: 社員マスタ 2 / for で全ての列データ > テーブル
+          - 🟥 【PDO select ver 3】: 社員マスタ 3 / 列名を取得してタイトル作成
+          - 🟥 【PDO select ver 4】: 社員マスタ 4 / 日付・数値・性別を SQL 側でフォーマット
+
         - [📕 値のバインド / print_r](https://replit.com/@sworc/php-sqlite3-app1)
         - [📕 wget で外部から取得した CSV からデータ作成して処理](https://replit.com/@sworc/php-con-list-sqlite3-by-shell-from-csv)
 
