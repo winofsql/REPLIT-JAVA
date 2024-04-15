@@ -27,7 +27,7 @@
           - 🟥 【PDO select ver 4】: 社員マスタ 4 / 日付・数値・性別を SQL 側でフォーマット
 
         - [📕 値のバインド / print_r](https://replit.com/@sworc/php-sqlite3-app1)
-        - [📕 wget で外部から取得した CSV からデータ作成して処理](https://replit.com/@sworc/php-con-list-sqlite3-by-shell-from-csv)
+        - [📕 wget で外部から取得した CSV からデータ作成して処理](https://replit.com/@sworc/php-con-list-sqlite3-by-shell-from-csv#README.md)
 
       - ### 🔷 GitHub よりインストール
         - [📕 php-git-🟥 【掲示板】MVC 掲示板 : テキストファイル](https://replit.com/@sworc/php-git-Jie-Shi-Ban-MVC-Jie-Shi-Ban-tekisutohuairu)
