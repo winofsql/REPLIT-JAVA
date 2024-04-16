@@ -5,7 +5,7 @@
   - ### ✅ JavaScript : 機能
     - [📕 機械音声スピーチ](https://replit.com/@sworc/js-speech)
     - ### 🔶 Ajax
-      - [📕 GET](https://replit.com/@sworc/js-ajax-get) : POST のテスト用ターゲットの実行 URL を使用
+      - [📕 GET](https://replit.com/@sworc/js-ajax-get) : [POST のテスト用ターゲット](https://replit.com/@sworc/php-post-test)の実行 URL を使用
       - [📕 POST](https://replit.com/@sworc/js-ajax-post)
       - [📕 アップロード](https://replit.com/@sworc/js-ajax-upload)
       - [📕 外部JSON からテーブル](https://replit.com/@sworc/js-ajax-table)
