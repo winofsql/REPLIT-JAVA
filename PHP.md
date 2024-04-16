@@ -22,7 +22,7 @@
         ![image](https://github.com/winofsql/REPLIT-Java-PHP-js-Python/assets/1501327/db8357a4-cd38-4573-90e8-b78e8dd79b10)
 
     - ### 🔶 その他
-
+      - [📕 localStorage](https://replit.com/@sworc/js-localstorage)
 
   - ### ✅ WEB
     - ### 🔶 API
