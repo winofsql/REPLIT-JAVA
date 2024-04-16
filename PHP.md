@@ -22,7 +22,7 @@
         ![image](https://github.com/winofsql/REPLIT-Java-PHP-js-Python/assets/1501327/db8357a4-cd38-4573-90e8-b78e8dd79b10)
 
     - ### 🔶 その他
-      - [📕 localStorage : 日記作成と読み出し](https://replit.com/@sworc/js-localstorage)
+      - [📕 localStorage : 日記作成と読み出し](https://replit.com/@sworc/js-localstorage) : 日付部分は jQueryUI の [Datepicker](https://jqueryui.com/datepicker/)
 
         ![image](https://github.com/winofsql/REPLIT-Java-PHP-js-Python/assets/1501327/f44ab77f-9754-4b20-b68a-30d5e5290bd2)
 
