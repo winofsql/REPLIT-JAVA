@@ -24,7 +24,7 @@
     - ### 🔶 その他
       - [📕 localStorage : 日記作成と読み出し](https://replit.com/@sworc/js-localstorage)
 
-        ![image](https://github.com/winofsql/REPLIT-Java-PHP-js-Python/assets/1501327/059d5a27-1fd4-42c3-aca4-b4dc6c654a4a)
+        ![image](https://github.com/winofsql/REPLIT-Java-PHP-js-Python/assets/1501327/f44ab77f-9754-4b20-b68a-30d5e5290bd2)
 
   - ### ✅ WEB
     - ### 🔶 API
