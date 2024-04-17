@@ -34,6 +34,9 @@
 
       - [📕 クリップボード : 画面上のデータをクリップボードにコピー](https://replit.com/@sworc/js-clipboard)  
 
+      - ### 🔷 ライブラリ
+        - [📕 バルーンによるコンテンツ説明](https://replit.com/@sworc/js-balloon)  
+      
   - ### ✅ WEB
 
     - ### 🔶 API
