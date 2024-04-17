@@ -148,7 +148,7 @@
          
             ![image](https://github.com/winofsql/REPLIT-Java-PHP-js-Python/assets/1501327/08ae27f4-956d-4ae1-804d-1bb4caafd543)
  
-      - ### 🔷 Three.js
+      - ### 🔷 Three.js : 3D
         - [📕 three-flying](https://replit.com/@sworc/three-flying)
 
          ![image](https://github.com/winofsql/REPLIT-Java-PHP-js-Python/assets/1501327/45ce8bf3-4529-4c8f-9b11-8d5398288a13)
