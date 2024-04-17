@@ -4,7 +4,7 @@
     - [📕 CSVダウンロード > explode](https://replit.com/@sworc/php-con-download-csv-explode-array)
 
   - ### ✅ CSS
-    - [📕 テーブルタイトルコントロール : position: sticky](https://replit.com/@sworc/css-table-contro)
+    - [📕 テーブルタイトルコントロール : position: sticky](https://replit.com/@sworc/css-table-control)
 
   - ### ✅ JavaScript : 機能
     - [📕 機械音声スピーチ](https://replit.com/@sworc/js-speech)
