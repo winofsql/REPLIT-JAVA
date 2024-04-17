@@ -5,6 +5,7 @@
 
   - ### ✅ CSS
     - [📕 テーブルタイトルコントロール : position: sticky](https://replit.com/@sworc/css-table-control)
+      - sticky によるタイトル上部固定
 
   - ### ✅ JavaScript : 機能
     - [📕 機械音声スピーチ](https://replit.com/@sworc/js-speech)
