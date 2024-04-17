@@ -130,11 +130,11 @@
 
       - ### 🔷 JavaScript Effect : 外部専用ライブラリ
         - ### 2D ゲーム作成
-          - [📕 createjs-2-move-image](https://replit.com/@sworc/createjs-2-move-image)
+          - [📕 createjs-2-move-image](https://replit.com/@sworc/createjs-2-move-image) : 画像処理
             
             ![image](https://github.com/winofsql/REPLIT-Java-PHP-js-Python/assets/1501327/824c87f6-53fc-4a7b-8f26-ef0e68cece95)
   
-          - [📕 createjs-3-shooting](https://replit.com/@sworc/createjs-3-shooting)
+          - [📕 createjs-3-shooting](https://replit.com/@sworc/createjs-3-shooting) : シューティング / 当たり判定で画像処理
          
             ![image](https://github.com/winofsql/REPLIT-Java-PHP-js-Python/assets/1501327/723c885a-f5d3-4344-81ee-c8f844191ef7)
         - ### basic
