@@ -128,7 +128,7 @@
           - 🟥 【TCPDF ver 3】: 社員一覧印刷処理 ( 出力レイアウトのコントロール )
           - 🟥 【TCPDF ver 4】: 社員一覧印刷処理 ( 合計・テキスト効果 )      
 
-      - ### 🔷 Effect
+      - ### 🔷 JavaScript Effect : 外部専用ライブラリ
         - [📕 createjs-2-move-image](https://replit.com/@sworc/createjs-2-move-image)
           
           ![image](https://github.com/winofsql/REPLIT-Java-PHP-js-Python/assets/1501327/824c87f6-53fc-4a7b-8f26-ef0e68cece95)
