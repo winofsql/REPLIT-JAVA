@@ -1,5 +1,5 @@
 - ### 📗 PHP ......... [Java](https://github.com/winofsql/REPLIT-Java-PHP-js-Python/blob/main/README.md) ......... [Python](https://github.com/winofsql/REPLIT-JAVA/blob/main/python.md)
-  - ### ✅ Console
+  - ### ✅ Console : CLI（Command Line Interface）
     - [📕 explode > 配列 > ループ > implode](https://replit.com/@sworc/php-con-split-loop-3-pattern)
     - [📕 CSVダウンロード > explode](https://replit.com/@sworc/php-con-download-csv-explode-array)
   - ### ✅ JavaScript : 機能
