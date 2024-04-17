@@ -35,10 +35,14 @@
       - [📕 クリップボード : 画面上のデータをクリップボードにコピー](https://replit.com/@sworc/js-clipboard)  
 
   - ### ✅ WEB
+
     - ### 🔶 API
       - [📕 POST のテスト用ターゲット](https://replit.com/@sworc/php-post-test)
       - [📕 SQLite3 の内容を JSON で取得](https://replit.com/@sworc/php-json-syain-sqlite3)
+
     - ### 🔶Browser
+      - ### 🔷 特殊な処理
+
       - ### 🔷 SQLite3
         - [📕 PDO で簡単なデータアクセス](https://replit.com/@sworc/php-sqlite3-easy-access)
           - 🟥 【PDO select ver 1】: 社員マスタ 1 / 連想配列の列名指定
