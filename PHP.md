@@ -137,7 +137,7 @@
           - [📕 createjs-3-shooting](https://replit.com/@sworc/createjs-3-shooting) : シューティング / 当たり判定で画像処理
          
             ![image](https://github.com/winofsql/REPLIT-Java-PHP-js-Python/assets/1501327/723c885a-f5d3-4344-81ee-c8f844191ef7)
-        - ### basic
+        - ### basic : 図形( ここでは星型 )
           - [📕 createjs-4-move-star-1](https://replit.com/@sworc/createjs-4-move-star-1)
           - [📕 createjs-4-move-star-2](https://replit.com/@sworc/createjs-4-move-star-2)
           - [📕 createjs-5-rotate-star](https://replit.com/@sworc/createjs-5-rotate-star)
